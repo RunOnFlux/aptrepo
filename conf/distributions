@@ -28,6 +28,24 @@ SignWith: 4B69CA27A986265D
 Origin: Flux
 Label: Flux
 Suite: stable
+Codename: hirsute
+Architectures: i386 amd64 arm64
+Components: main
+Description: Flux, Your Gateway to a Decentralized World
+SignWith: 4B69CA27A986265D
+
+Origin: Flux
+Label: Flux
+Suite: stable
+Codename: groovy
+Architectures: i386 amd64 arm64
+Components: main
+Description: Flux, Your Gateway to a Decentralized World
+SignWith: 4B69CA27A986265D
+
+Origin: Flux
+Label: Flux
+Suite: stable
 Codename: focal
 Architectures: i386 amd64 arm64
 Components: main
