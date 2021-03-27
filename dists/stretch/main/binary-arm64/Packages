@@ -1,0 +1,76 @@
+Package: flux
+Version: 5.0.0
+Source: flux
+Maintainer: Flux Foundation <info@runonflux.io>
+Homepage: https://runonflux.io
+Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
+Vcs-Git: https://github.com/runonflux/fluxd.git
+Vcs-Browser: https://github.com/runonflux/fluxd
+Architecture: arm64
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Priority: optional
+Section: utils
+Filename: pool/main/f/flux/flux_5.0.0_arm64.deb
+Size: 40158864
+SHA256: f8374abdf689b986b02c74c0d7b422760363ba0023197eb4fe74e7bf40e2a3cc
+SHA1: fed8511e7b0b6704728171ad3cb2502540ded8a3
+MD5sum: 8dfbc7664827dae49eb617b6f2388933
+Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
+
+Package: fluxbench
+Version: 2.0.0
+Source: fluxbench
+Maintainer: Flux Foundation <info@runonflux.io>
+Homepage: https://runonflux.io
+Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
+Vcs-Git: https://github.com/runonflux/fluxbench.git
+Vcs-Browser: https://github.com/runoflux/fluxbench
+Architecture: arm64
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Priority: optional
+Section: utils
+Filename: pool/main/f/fluxbench/fluxbench_2.0.0_arm64.deb
+Size: 7986620
+SHA256: 28bc306cbdf40f658f03502e980a63e68eba4d9ee66a91e98a6066b65093fb19
+SHA1: 37516083a0a1ca58ace0ad3b84d00592990679f4
+MD5sum: 88c42073e7bdc15ca33f09478201dc0a
+Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
+
+Package: zelbench
+Version: 2.0.0
+Source: zelbench
+Maintainer: Flux Foundation <info@runonflux.io>
+Homepage: https://runonflux.io
+Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
+Vcs-Git: https://github.com/runonflux/fluxbench.git
+Vcs-Browser: https://github.com/runoflux/fluxbench
+Architecture: arm64
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Priority: optional
+Section: utils
+Filename: pool/main/z/zelbench/zelbench_2.0.0_arm64.deb
+Size: 7986984
+SHA256: 2e527190cd3c9cf4ca29fb3961e17e041e7bb146f45e43d76641c128f9a40a99
+SHA1: 0144ca187985394b8a82bd09751dd7787fff37ef
+MD5sum: 363ee191e9373639eeb9839fdc155028
+Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
+
+Package: zelcash
+Version: 5.0.0
+Source: zelcash
+Maintainer: Flux Foundation <info@runonflux.io>
+Homepage: https://runonflux.io
+Build-Depends: autoconf, automake, bsdmainutils, build-essential, git, g++-multilib, libc6-dev, libtool, m4, ncurses-dev, pkg-config, python, unzip, wget, zlib1g-dev
+Vcs-Git: https://github.com/runonflux/fluxd.git
+Vcs-Browser: https://github.com/runonflux/fluxd
+Architecture: arm64
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
+Priority: optional
+Section: utils
+Filename: pool/main/z/zelcash/zelcash_5.0.0_arm64.deb
+Size: 40157840
+SHA256: 51e8448ec3bf31bd202f6f87759f52edd8d1e6ced16a90f18031c8b359bf895a
+SHA1: 17550c70eaff7d9f37acefee5f12bab24664e1d8
+MD5sum: 971349d2bdc45e2513d1ce8bebf54bd9
+Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
+
