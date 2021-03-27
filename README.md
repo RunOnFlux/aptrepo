@@ -15,8 +15,9 @@ sudo apt-get install zelcore # to install Zelcore
 ```
 
 ## Available Packages
+
+### amd64
 ```
-## amd64
 flux
         Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
 
@@ -33,8 +34,9 @@ zelcore
         Depends:
 ```
 
+
+### arm64
 ```
-## archh64
 flux
         Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
         
@@ -48,8 +50,9 @@ zelbench
         Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
 ```
 
+
+### i386
 ```
-## i386
 flux
         Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
                 
