@@ -18,7 +18,7 @@ MD5sum: 35db3455bd18a9b519deeb13602601d7
 Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
 
 Package: fluxbench
-Version: 2.1.0
+Version: 2.1.1
 Source: fluxbench
 Maintainer: Flux Foundation <info@runonflux.io>
 Homepage: https://runonflux.io
@@ -29,15 +29,15 @@ Architecture: arm64
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/f/fluxbench/fluxbench_2.1.0_arm64.deb
-Size: 1079900
-SHA256: 17319d24987dbd96f5d955faea0dc6297dc120ee22b7546e96326d7a47a42f6b
-SHA1: bfc360aa0ef28f8d3ad728874f24d0d2eb37d181
-MD5sum: d6828491a9a836c4e48885bede0f55eb
+Filename: pool/main/f/fluxbench/fluxbench_2.1.1_arm64.deb
+Size: 1082916
+SHA256: 5e2448b0b206e63551bd75cf63bea3f814f65f7955495024e172d6e798a778f1
+SHA1: 072dc6a4db5ec34afab9dc1764f3f882a893757d
+MD5sum: 6649868c742906852a3991ad50f463c4
 Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
 
 Package: zelbench
-Version: 2.1.0
+Version: 2.1.1
 Source: zelbench
 Maintainer: Flux Foundation <info@runonflux.io>
 Homepage: https://runonflux.io
@@ -48,11 +48,11 @@ Architecture: arm64
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/z/zelbench/zelbench_2.1.0_arm64.deb
-Size: 1080412
-SHA256: a2551d8476b1f57eaa1f15e9cb6c314c573eb027c16ff04f4ef7935f434cdd3a
-SHA1: caa0a0a05d6a2333bcd4a2a719f79eea1e7c5bd2
-MD5sum: b09ab1fb7d722a2b2616a071c790af7c
+Filename: pool/main/z/zelbench/zelbench_2.1.1_arm64.deb
+Size: 1083068
+SHA256: bce128be77494a654bc32e75bcc6ab9c4e20d27b895297c899ae2f1d4374c5c4
+SHA1: c7e91dff0e46666ece3e70333a9c521fef25072b
+MD5sum: 130d8cdd96d3c9698ca34bc037eb94e4
 Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
 
 Package: zelcash
