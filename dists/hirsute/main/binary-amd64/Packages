@@ -75,21 +75,21 @@ MD5sum: ee8946d96a52e865e643966f0c7b4561
 Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
 
 Package: zelcore
-Version: 4.13.2
+Version: 4.13.3
 License: UNLICENSED
 Vendor: Zelcore Technologies Inc. <info@zel.network>
 Architecture: amd64
 Maintainer: Zelcore Technologies Inc. <info@zel.network>
-Installed-Size: 462702
+Installed-Size: 462643
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
 Homepage: https://github.com/zelcore-io/ZelTreZ#readme
 Priority: extra
 Section: default
-Filename: pool/main/z/zelcore/zelcore_4.13.2_amd64.deb
-Size: 87090268
-SHA256: 21ea6b5a8d3ac4b80e5e1ddfe95008d175915e1186e04d811888130b3ac249a5
-SHA1: e64e34ff583c821b4e09b30df3ca6322380f0de2
-MD5sum: bd29b065186d146968529f106b38a5cf
+Filename: pool/main/z/zelcore/zelcore_4.13.3_amd64.deb
+Size: 87083444
+SHA256: f4756c2cf244642e09afcf114d0419a04046282f03a1ec9da0a207cabe097bc6
+SHA1: f31ec96be67a2664ff062c00b31e4b54a40b15c2
+MD5sum: c7ac34d3d228bdb330da968f3b963a87
 Description: 
   Zelcore Platform
 
