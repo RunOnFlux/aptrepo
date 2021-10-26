@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: bionic
-Date: Tue, 19 Oct 2021 10:09:28 UTC
+Date: Tue, 26 Oct 2021 03:10:51 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  0baae7398a478109754b812e4ddb9ef2 3492 main/binary-i386/Packages
  2485bff2e88fe0155b325c8f25fff796 1025 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 212489b8dd9ed61e5b38018bb7e5fd95 4202 main/binary-amd64/Packages
- 24fbb8031dc35d73f0292fa99b5ff143 1340 main/binary-amd64/Packages.gz
+ ed574c71f8c84af0efb30e0948050688 4202 main/binary-amd64/Packages
+ 2a2c91256e9efcdb6050cb0c0e334e19 1338 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  3e50f6a446fb2bbe83d5385b723b6821 3500 main/binary-arm64/Packages
  d7b50bfc7cda8f3f5a0caaa786803e07 1022 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  9137e3e18ecb70dc5ab8701de00a3a5a24688b38 3492 main/binary-i386/Packages
  c06989df193c8395bf068c43184afa423220f814 1025 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- f2a6a7b4905e413162443249d337c97f463d79b0 4202 main/binary-amd64/Packages
- 870204e227f61c6b3f4061bc5e7fe641a46e7fdc 1340 main/binary-amd64/Packages.gz
+ 15c3a502e4d3bef45d155b5df92eaf8c8607250c 4202 main/binary-amd64/Packages
+ fa11d0ad529da538fed62616de9b688e26a8606a 1338 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  c3fd2d22bc6a7c623d27b3baf12814144dfa43ee 3500 main/binary-arm64/Packages
  8ad7c42d51e934685013d533be354567f3a43efb 1022 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  6aedddad56363abed9a889eb820c7ee328fcdf71040a65a2ff0ea61da3eb7eb5 3492 main/binary-i386/Packages
  6ffad41f4ae78fef3e63db50d59c2e524c2b23a56b0c5a8d377b3accd066bb82 1025 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 752719ee3925649fcd12c8662f4fa9c4794be88df6f2cfa43d04bd58f9315d31 4202 main/binary-amd64/Packages
- 7c51c166ec00bbef60e79b79a053e12f1557b061e8c9a0e7d9874e8031d0b80c 1340 main/binary-amd64/Packages.gz
+ 4ec086644c627d1c6cd7c8b0c124502ea47e45f52f86e01918018d2e0da83894 4202 main/binary-amd64/Packages
+ 3d5054259964c83a2e21de773c7d3179aee7a9e80c1a06054fd1783ace2b0112 1338 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  624118fada81ca4005ff2bddcba9ef4b7caab183d10dbd6051efce5547045080 3500 main/binary-arm64/Packages
  f5001e79bd8e272a5a39de060d88011765c98d25a66b5d3a9e7c9cc0955ae2ca 1022 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmFumVgACgkQS2nKJ6mG
-Jl34kQv/T+WTwt2h3bHqBfAZO9rerC06bN1fdcbPFfO2U/SXKvD1ZskCurzXq4is
-wUKod4Hg6/RI352R/NYiSC4CwkrESEa42zenY3Ta1KjPsFJiPAVRhPhC+dFcgJY3
-F9KvclX+fb6aDGMiMrr6GXAItQcFlPqynKHD2aCrDj5AddbvkC5G9BoQl+EC10ZP
-C6h8Y2DahDi5y0NlrIAJVu64axt36EJVmlRaYSCXU/4OZebRPCzlc/nCJe+dx8jO
-lQPdiGAeKQ0iW7kFLbLBafNbzXqNu5CPz9KiS13JxIYMpopD3blKcc7K+q7CwxND
-iWNtr34wvL0o3Vdxvuis4Epclg/YA1rxIsFg91Tp2rtMnbqSwICnjT4NcJgsi6Xc
-nnvrYY3ux4cD2gYUYxZ4ZxQt2RgV+xHTx89WP5Maici5ycOZfz6DCMQmtJsk/lzy
-iuGd34b5CaoXULs74vD32w5QKMR5xELxzhKDc11sVHwfAdiEyIPYcx7W5vG+OO/G
-a9ChAe+5
-=4YnW
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmF3cbwACgkQS2nKJ6mG
+Jl3ULAv/eyknr4hKcc1mgjHBZoJNfSfxTpvlbamaUa7AtdQw2Hv2yvYGsKNizf4i
+K7Mx439FWvxkHEO4AQuddx2rUdfASC6k/pWPDN7/c7S4KvFfphEgwFPaeXWU7h0D
+oelkoyRHXiEgfh+OFTge3+/w/HBmK8HQEQC+Wv2Qubl0nFSttTL2Nrp44StaDSLo
+io6B4ZtrvKcA2fB9bmyj2KhtHbncyIxJy4FzUyu1VshDNtV6EfYz0ExGQE40YVF+
+9xhFUCD+wYfGRKzrocE+kiafCS3CZTMAdkgR5CJWejtsBqlQwH3hiKVvkAjFMQhm
+F7d0hC3AGBqSXmLirMuPPSMXpvUYwwGL5bOYFnmZKuCQ507ZrBf23RB54k9xM6nU
+/lYkRaPX/X46s/rBNHSGcwth+ZHifUV1Nr18VhUY5hERw8LEucIVI3d+rLyG/oE1
+zulUcpXrDvgegM/UGsBM4rNeGXj/je5nW6AtBeBc7KnsG+gd3lHRUR1V7Rha0BT2
+PVvSo1aX
+=slyL
 -----END PGP SIGNATURE-----
