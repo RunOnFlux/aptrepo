@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: bullseye
-Date: Sun, 14 Nov 2021 15:19:37 UTC
+Date: Mon, 15 Nov 2021 10:39:00 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  0baae7398a478109754b812e4ddb9ef2 3492 main/binary-i386/Packages
  2485bff2e88fe0155b325c8f25fff796 1025 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- b85c05657b4ce6b0936f455f5b20f108 4202 main/binary-amd64/Packages
- 7be1c493e14c26856bcb8326e79c619d 1342 main/binary-amd64/Packages.gz
+ 0369bd34ad1333aa4adf47f481004980 4202 main/binary-amd64/Packages
+ 55eb9ae6818486858439aec68485c7ea 1341 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  3e50f6a446fb2bbe83d5385b723b6821 3500 main/binary-arm64/Packages
  d7b50bfc7cda8f3f5a0caaa786803e07 1022 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  9137e3e18ecb70dc5ab8701de00a3a5a24688b38 3492 main/binary-i386/Packages
  c06989df193c8395bf068c43184afa423220f814 1025 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 71a447a247a035a2efa96c83bd653205a4d6bb2c 4202 main/binary-amd64/Packages
- b484929e46ee3a6fde3ea232af429df40beaf993 1342 main/binary-amd64/Packages.gz
+ 07c9ed2119539d96b4768eae56d5150143b06509 4202 main/binary-amd64/Packages
+ 10c4020e38b5132463b5dc3bbc6fdeded4f761fd 1341 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  c3fd2d22bc6a7c623d27b3baf12814144dfa43ee 3500 main/binary-arm64/Packages
  8ad7c42d51e934685013d533be354567f3a43efb 1022 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  6aedddad56363abed9a889eb820c7ee328fcdf71040a65a2ff0ea61da3eb7eb5 3492 main/binary-i386/Packages
  6ffad41f4ae78fef3e63db50d59c2e524c2b23a56b0c5a8d377b3accd066bb82 1025 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 295c17b526b7276ea63b5d8d9888f34a5a1e7b091392e5a0e959e2b4dcf3c803 4202 main/binary-amd64/Packages
- 98f22852fcb505ee205777dd76805aef2b443d4c71c7ace0a3fcac4afa01e078 1342 main/binary-amd64/Packages.gz
+ f292287f8662278b7afe854dabb8bb1577870f78be4e0a3a2f5cb6fbc89352a9 4202 main/binary-amd64/Packages
+ c9ee5f868c3f3cdb73934b4b7fb3efebd82842a0c533cc0fd10311153cb5572d 1341 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  624118fada81ca4005ff2bddcba9ef4b7caab183d10dbd6051efce5547045080 3500 main/binary-arm64/Packages
  f5001e79bd8e272a5a39de060d88011765c98d25a66b5d3a9e7c9cc0955ae2ca 1022 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmGRKQkACgkQS2nKJ6mG
-Jl3d5AwAk6C3Kae8DqxaFFX/tlv9L0n3t02qxDV8nLYhcP6IauAGskDVexJDmFmK
-CzySPZYMgpe6QEboWQznoe5UbWiHnHPOUCL3G21sykTMP9in134FASHNoH6/LZkT
-4yLrlnMU6OK7GJ8GEhS+n2iqi5V/x/Sbn/fDzq6IOPg+TlaUenLcEeTPjCOx9XuQ
-apqr9NVCRWUTj3it1kkAz8sQ/AHkKtjYERGEjRHHNZPZOn8xM0kO+vfFBprOP+uF
-dg0CSadlQZGS8TX6mjPhelH/2hJEijNkoY4NnXDLwRy3TJ7G/hhlUj6GKm+wKmfD
-Md5H+vOHY6zIxT4V9yxhGTg0i48MRzSnkEKMiqoTV/YadHlD4EJIgXjCQNId53LB
-7lfPoL/lXYXgZPEEFoT3b1LMdxxPybZ3+SYweEgRkIf5wan3PYagNfGlX7QUxn6d
-0p8fhKZFqiV5rPgPp38vhOsLKEUDylSYQjaKRuF4aNGU0idabh3e4tF955RvDHoY
-WTMR/864
-=Cfjq
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmGSOMQACgkQS2nKJ6mG
+Jl2bPwv/QintUx+qxTbOuWJ1DBZpIGa1oPIj4ORuGOuknzv0gsQmpmD8lN031w04
+inCybZBVRk8NeZh/Jy0Gl23syAKwvkQm+uJEqT18HdL6K3jAgQvlwSgyJ05JtaOa
+KkMrDqr6HeI1c7HZJ5Pz3i0OmfDNAw88kLEEvHPacOS0QqXU7ZoZ8kk+rbzv997h
+ER59HEfeP9/ypFoqkXyXvRhQz7WQ+gNj/luGl46qe8edhT3EWnC5LssijqeBPknJ
+a8cKbQvUmJsvW/BpugI1z8d02NNiO5REykgtEbDQDc6eZnf9R+wkdZWG16YsCu3s
+pg+HaiM9+/1vOhMBgD7XoCVcHW0Fms42hBvI4Bk37TRcdfp5DQ9Q9xrXnRjpM6Jb
+yrHeKB5J3iC4KVnf6LYDiaqveqhH82ZC0GHkExo5pYZZxBxqZlurTmaALMcSafnm
+/Cw25FWNue4B/vtCAefqUxwJI122uOCLC1RPyzSxb5vBy2PldjFp1ur+Ms+RZ+9C
+/6FlQ/5t
+=Fldj
 -----END PGP SIGNATURE-----

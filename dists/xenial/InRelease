@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: xenial
-Date: Sun, 14 Nov 2021 15:19:46 UTC
+Date: Mon, 15 Nov 2021 10:39:09 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  0baae7398a478109754b812e4ddb9ef2 3492 main/binary-i386/Packages
  2485bff2e88fe0155b325c8f25fff796 1025 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- b85c05657b4ce6b0936f455f5b20f108 4202 main/binary-amd64/Packages
- 7be1c493e14c26856bcb8326e79c619d 1342 main/binary-amd64/Packages.gz
+ 0369bd34ad1333aa4adf47f481004980 4202 main/binary-amd64/Packages
+ 55eb9ae6818486858439aec68485c7ea 1341 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  3e50f6a446fb2bbe83d5385b723b6821 3500 main/binary-arm64/Packages
  d7b50bfc7cda8f3f5a0caaa786803e07 1022 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  9137e3e18ecb70dc5ab8701de00a3a5a24688b38 3492 main/binary-i386/Packages
  c06989df193c8395bf068c43184afa423220f814 1025 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 71a447a247a035a2efa96c83bd653205a4d6bb2c 4202 main/binary-amd64/Packages
- b484929e46ee3a6fde3ea232af429df40beaf993 1342 main/binary-amd64/Packages.gz
+ 07c9ed2119539d96b4768eae56d5150143b06509 4202 main/binary-amd64/Packages
+ 10c4020e38b5132463b5dc3bbc6fdeded4f761fd 1341 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  c3fd2d22bc6a7c623d27b3baf12814144dfa43ee 3500 main/binary-arm64/Packages
  8ad7c42d51e934685013d533be354567f3a43efb 1022 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  6aedddad56363abed9a889eb820c7ee328fcdf71040a65a2ff0ea61da3eb7eb5 3492 main/binary-i386/Packages
  6ffad41f4ae78fef3e63db50d59c2e524c2b23a56b0c5a8d377b3accd066bb82 1025 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 295c17b526b7276ea63b5d8d9888f34a5a1e7b091392e5a0e959e2b4dcf3c803 4202 main/binary-amd64/Packages
- 98f22852fcb505ee205777dd76805aef2b443d4c71c7ace0a3fcac4afa01e078 1342 main/binary-amd64/Packages.gz
+ f292287f8662278b7afe854dabb8bb1577870f78be4e0a3a2f5cb6fbc89352a9 4202 main/binary-amd64/Packages
+ c9ee5f868c3f3cdb73934b4b7fb3efebd82842a0c533cc0fd10311153cb5572d 1341 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  624118fada81ca4005ff2bddcba9ef4b7caab183d10dbd6051efce5547045080 3500 main/binary-arm64/Packages
  f5001e79bd8e272a5a39de060d88011765c98d25a66b5d3a9e7c9cc0955ae2ca 1022 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmGRKRIACgkQS2nKJ6mG
-Jl0tGwv9G8+QhJ5hldWV3E9QWZTf3jM/XXIvtb/ECTaGCwFLOzooHMsTn+7+NO3I
-x1OXBOTlRUHpHzj1zLwY3cH8oxBcMyJMW8+23w2fI8pi6Md0KKZOsP/XTR4qB3qP
-n14o4BAF3z0aaCNKfg0XwvZqkYgxblLkOczyrEQF/vaL9wKrK/HevxIdhS9ZqlWH
-c5yK535skyC7Sh+xgZoTzjsKseYLX3jkzD5+75qPD7Mjxxsj2sNYcJNI9usZkTgb
-v/z2GqhPsLt3U2LNUFVbJp2ybUoNlST0ZkDWXbSi1Wt4jfxmVzmqrS3XzoOU6OSt
-p5VCkuq+8xXkDlEZ34FMmyyNYUxdLocNgOn7g50+ODsojgLfsC5toDVzEzwBTJkr
-a6QhMKRrvxMUs5/l7s2H4LwLt2ikVR9rYkGBkHBga1w1VhWrZu7uzkCfB9d+IcbX
-NdvkUEel+9y1iD7ZvtIz3kxXpsWorlEWn+eWPm71pjmcnk8IiLa3B7Wer5moBomL
-bGyUy0uX
-=9sAD
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmGSOM0ACgkQS2nKJ6mG
+Jl2PAwwAgNq4BGwokqKmnO6c3t2D7kGCr0WDu1LJfSPIPxMEaiygcUrH86bRZzw3
+csxCsRZBvINxXxW5nhBMxlYiC5s97v9YUiZQ9wap/29lxQsO6XttIxShgNhhd6Tj
+VZDJVIdnNxTm9iKeupXa3i82AKgbZTDFolqrDdImp7GJmUDvgJcMAJVwADzYjQ93
+QjAJdFGYHS2S3VGqHh2nMCCRkESzdamig+zWG4Th+qplT3zu6uWBshOWK2dOCEMw
+PabcLxpClFK2xf2nbyu3dLD/Zj2zAhyiBopd82wbLk5kJLQF04yUTX40rvnADFKS
+bYbsyz3K5nM4+iyuObo/8zBd0VKWXcwD8vsPxBbJEC/QKVCKTErPfmHiDmDghQD8
+IWMM4HSMSGXxTgGq1BmxtOXX6oVDRoZ+D4804tuLYgubmUMadFcHa+dnJCzdzMlH
+F0lHNdKEZ3pDJVU0+suM9Azzrj6z6+t+lbOgoFY9zHWBeNzbUq0x86WDF9wT/97z
+4k2bpBca
+=iBXt
 -----END PGP SIGNATURE-----
