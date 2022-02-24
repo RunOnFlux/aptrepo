@@ -1,5 +1,5 @@
 Package: flux
-Version: 5.2.1
+Version: 6.0.0
 Source: flux
 Maintainer: Flux Foundation <info@runonflux.io>
 Homepage: https://runonflux.io
@@ -10,15 +10,15 @@ Architecture: i386
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/f/flux/flux_5.2.1_i386.deb
-Size: 5058156
-SHA256: d0344c68491595702fcf91c2f988812fef09cb8692ab44969feb950fcacf9699
-SHA1: fa7e93aa0deb8dbaf68669a1e5b0c303cb65ff98
-MD5sum: 2b57904fd2f1879cc501d712c2dfcfc7
+Filename: pool/main/f/flux/flux_6.0.0_i386.deb
+Size: 5065936
+SHA256: c2631b8882b96a10cb19725244b2deab8d779da7d53da90b618b63283830368e
+SHA1: 305c8d2d4452cd3628c4076effd7bc1664353108
+MD5sum: 0645030b6153d786ce64a9032eae79f9
 Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
 
 Package: fluxbench
-Version: 2.3.1
+Version: 3.0.0
 Source: fluxbench
 Maintainer: Flux Foundation <info@runonflux.io>
 Homepage: https://runonflux.io
@@ -29,11 +29,11 @@ Architecture: i386
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/f/fluxbench/fluxbench_2.3.1_i386.deb
-Size: 1309264
-SHA256: 981be7a55148badffdde922a84743472f9770d4a1d0c3c762c8a6cc42b1d906b
-SHA1: 39dfd57ae4bd26c3678beafc337a8ba9eb2a1752
-MD5sum: a442cd0d5c3c1fff3068cdc35de5c745
+Filename: pool/main/f/fluxbench/fluxbench_3.0.0_i386.deb
+Size: 1313676
+SHA256: da8fe4e65d49241a4bb57962d055bc81a79550baeae27c4fc8a17e41bf26451e
+SHA1: 6730e83eb524a627bf822a096c3be45b9d7a4b82
+MD5sum: 6415f4eafb9631c5ba1244f04fef2464
 Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
 
 Package: zelbench
