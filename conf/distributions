@@ -1,6 +1,15 @@
 Origin: Flux
 Label: Flux
 Suite: stable
+Codename: jammy
+Architectures: i386 amd64 arm64
+Components: main
+Description: Flux, Your Gateway to a Decentralized World
+SignWith: 4B69CA27A986265D
+
+Origin: Flux
+Label: Flux
+Suite: stable
 Codename: impish
 Architectures: i386 amd64 arm64
 Components: main

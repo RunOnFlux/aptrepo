@@ -1,8 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: Flux
 Label: Flux
 Suite: stable
-Codename: impish
-Date: Tue, 26 Apr 2022 14:16:40 UTC
+Codename: jammy
+Date: Tue, 26 Apr 2022 14:16:42 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -36,3 +39,17 @@ SHA256:
  723c9b73e277b4aac26df9a435743981759a8e141b749509a73d9d7707e8ab17 1746 main/binary-arm64/Packages
  54d595bd27519a1043fa96a4b6b4edc4a782a000a799b4516aca80f168f4c93e 769 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmJn/ssACgkQS2nKJ6mG
+Jl0AVAv+K4EAYSE/JIt4IA/8Ls+b1QD6o4Y4hCRcav/sUYy033VfVw+bKMRrd80F
+6Qp37XVTrwyzKmSqEoimkWIWKKpKjoL7XtzWzrlcnj321YDvOWvkhTXuCkt0Xe1G
+8RMhHjBHgbwgIXhjqOQvdh07ZIi32Lx6rI8z0CQaQLxwXBuqG3dYMKm+nhFtdhvX
+4i8+MvXdfGr0GvBZQkeliLAy918HCz5/MCt3qdxNiNzTJTgtgxag1rQdfC1sDqWX
+140IGHY7QRf73Tryme9dcB1wo8jmUhBGYYVFp0XnNgoIiq9OLLvqk1Y+Fl5VQO3v
+rpsLpwJymWWkYMoK3I7HwmPcJA+TJ0Xqbi8EUQid8XuYrsu05CI0FBWbcpwc+Klw
+clLYrh9ra57e31igv6UvmPF/yJi1QMSJMB9GRcffhSqHVIlwnUo+ICusE6yqZRid
+acsM62JLhurdtij6M8yyDOT45Xm2bhPbHDEueRnx6T8IsxCN+Ei51mor7invEL4a
++AYMyrNr
+=NffF
+-----END PGP SIGNATURE-----
