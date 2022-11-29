@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: focal
-Date: Wed, 16 Nov 2022 00:56:42 UTC
+Date: Tue, 29 Nov 2022 12:26:53 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  a788b754a0968d5369fee907c6a31199 3492 main/binary-i386/Packages
  caa82fe7c7f5cd6bb0feb8ffd6e94ac9 1038 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 3ad7a6462094231795b5d7e26e1ea899 4200 main/binary-amd64/Packages
- 8870a63730b8cea11b3ae18787a547dc 1348 main/binary-amd64/Packages.gz
+ f12a7172a93a097798fefacab732d1c6 4200 main/binary-amd64/Packages
+ d2fb38e484996d338bc4ad0924def0c5 1350 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  06f45d35685048bae85c39c691652497 3500 main/binary-arm64/Packages
  5dc2965c2c2cc1d9d2ad70a03657be80 1033 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  d366d0d311dd255dab7656ece0bb0f69e06166f7 3492 main/binary-i386/Packages
  e5fc8f5a594a5263c2e98624cd8e951b89a6efe3 1038 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 18ffac5847161d4c68052138a38333170103095c 4200 main/binary-amd64/Packages
- e55f1c3387310c749da93c26f8043c2368602cfe 1348 main/binary-amd64/Packages.gz
+ dccd1e818ce62f34d660b74d9dd350e0fb23a560 4200 main/binary-amd64/Packages
+ 6df37642b0e36f39d34d3e3c926adda88a755810 1350 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  7ebecfa8cc7701e953c642eedad73b939826e7ea 3500 main/binary-arm64/Packages
  02ea4382e4a02191579fa73c8231a4d8d3b3d5e5 1033 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  1e916e1777027ac587b2ff440c39fef975ba81bda43ce8243bda1c3bf27d56ba 3492 main/binary-i386/Packages
  457340d01c673bdbc3fea55318cb3e71905e6ccce6f5b7beb6c4ce7f396639a6 1038 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 7d3f3851ea1fcc875eb6dbf2af255e6e274e800b20d924c4f3661b62735f3275 4200 main/binary-amd64/Packages
- 1f2daf24cff9b20fb7f0bd7cf0185e99de997555c1f00af78c45e78326af1a8a 1348 main/binary-amd64/Packages.gz
+ 7baa016b384f6dd35f24e3ed66e9cd9a025cb75cbfaaa909ec62f71189c5ba44 4200 main/binary-amd64/Packages
+ 2e07d9aa71640e5db26a496c5a359619b7084575c6cd1e91331f0a823c9e6afa 1350 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  33514c8eb9e96e9e745fc441f90736ad255cb3d17e7c4b4635597574b2e4ecba 3500 main/binary-arm64/Packages
  0e1a3332f8095fd8dca23107a77b113e61e346030d2012ad91efe7192a9e9d7e 1033 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmN0NUoACgkQS2nKJ6mG
-Jl1c4Qv+I2MGq6ugPPMqGEiQvB4bEJfxQbWjR9DUEmvx9NDrZDa+GaCpttOT7L04
-/w2Emh2hVK3p1XVQwjCl9Hi3Lkb9+PUClGjK9/lD0lbfOEiyoBHlIgbF2Cd/GJpH
-oGEMojxI8vh1Qo0gk48o7yfTojSZrfgY6bVZeW6WRkanQnD80DNxunHNhOUL3Kr1
-HJB34/hC5D6LpADkX/8TOFDA4HrXzHH5AFgyysar88pTd5gffyQdIU78ADClgAqs
-aYkzhGHKoup93+CrM0ldlP9ygo85udBvMKxJ1CL3+f8HKUxEzUnmtb35YJ9aKwng
-QcMxAdSJu7m06+LPtZV+T5tgIy/GPRKAlZVHBheAGfSdFeWsH22vcA3ajbs4lrV+
-kr3VlAtRY+H7siliJVs8goRCnaaCZnWGk3lCeZWfyElSMb0EvgYZGkERcf96ZnSg
-FzFTfdtawOKgBiffmRCIBTDZk7nZJBNUqtYVo2kOiD0PthTwI85qkaC/pKbDlBKQ
-CGv3akXO
-=XJ1p
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmOF+o4ACgkQS2nKJ6mG
+Jl0waQwAtqiTMk5tjeg8HuII9vPea6lcs7sDzZ6R4lUkekArVppjyqUyxe/7LQme
+VuSSrj35KOFNPVvlc7afCeBWEG4NZ0LdlVjZ8Ol4p3v5SFEm/7t32tNWPbueAwfm
+fhfpRnk4mOfT2kHKi3C35UHoCDG4Mj0fjjp3pe7cr5waT5b74B4Zy2cZumA1M9a6
+97rAQtps9KT6HIQ7bx8JxYbkLnXF1h6A5ppt9udZsmzQnhm2jZ6rzoYnTIpGokoW
+36axNEx7YRZJhYk5CHQvfQTDQNnX1MV0nCj508BMhDvZeazer4Iy/Ga2EIk7LE2u
+1NGSJNFJWerxe9S9huXZ7oYwke8ilWY73Wu1ve4UeAL5lIueGonFqh843neHqdEF
+GYhZVds17ywvlRIX9vxWcGXtbVuTTj2zcrbBt1caJncGa9ap5EYtnlnwlvTg9J9i
+gjtJg8Tl0kwAXOULJ1Ro2OjJsq27YuOvvfGSwIHo/RGnqFQ3qqJlGomKWO3FkyR+
+MoCUomrJ
+=JyId
 -----END PGP SIGNATURE-----
