@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Sat, 23 Dec 2023 18:13:04 UTC
+Date: Sat, 06 Jan 2024 02:26:46 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  12746c9d7ead6ba729795f30f76d1848 1742 main/binary-i386/Packages
  a84880d24af5caf71f2fc3b80614571c 768 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 27551eed35989e9f9e32d3dbc80563c4 2446 main/binary-amd64/Packages
- 80aeea484112d2efc97c6806a9683d87 1082 main/binary-amd64/Packages.gz
+ f8c61aa4561173e1f4fda865687d46ef 2446 main/binary-amd64/Packages
+ afc81969861cca3e5520cfcde41aa154 1080 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  a7db51ea1d1c7e7fc01d4df12d1b166c 1746 main/binary-arm64/Packages
  878d6c32e6d01f4f5783eb1425c36d2e 767 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  bad62de3efc68ee8b35d86d055b8ee72e14c8a60 1742 main/binary-i386/Packages
  3117aa9ae5d009cd3369a326ee9f5d4eaf33b99f 768 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 82f68e0920fe1beb69ac73d8c789b744967d0ce6 2446 main/binary-amd64/Packages
- b077bb2cd61bf07ac9a2c85b28194af43191391e 1082 main/binary-amd64/Packages.gz
+ ceb5c9eb74ddd60ab0b3529571cbea25ac719591 2446 main/binary-amd64/Packages
+ d9442a83dc7bc08df26e1b4adc3aa31bc5030242 1080 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  7b78ddf6c55484d20e4276fb856adec79c4ed850 1746 main/binary-arm64/Packages
  c69d23cef5962f1c0138019882e0899646897617 767 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  7f18c985ab2784e1660289975b2b64d889ce124e361881906532a56ad3ac5145 1742 main/binary-i386/Packages
  b0170ac6a99adfe9d09e13997b7f83d95d740ca0e8f902ddd1686cfac3e007b9 768 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- c25bbb14cc6e1363691932dab2b733ea07183ca95584c2ecf52bd01606445a73 2446 main/binary-amd64/Packages
- c6a90e3f9777b7ca7e429cd7ccdba693c6d21011a8d1e69171d010eb08dbb133 1082 main/binary-amd64/Packages.gz
+ cf0064fc28c4d940b45d88a5097a6e325be8529b550dd2204dd72481ecffe55d 2446 main/binary-amd64/Packages
+ 36649ce7fb3cd445275de361a34d2754d946ea20ea9ef0e7ddd8e6b6b9af6c74 1080 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  7a6bf09403cd94728db48f26a7be9e80b8198536432253f9d4ba6bc595e40070 1746 main/binary-arm64/Packages
  8fa40bb2fda8f37a820209df234c3eb28d85fec044bd1a240e5b5c3d0bb4c1a6 767 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmWHIzAACgkQS2nKJ6mG
-Jl1vVwv9HuOtOQRBJBAx7UtG0Sdet3qHgewJ25PLX+1FjbhMYuKxUTnSnwXJR/89
-KLXmHJNSAdFSe4XvxtMVMYjASoOapxYE6Ni/C+lgBj/QwXTdtDr0zcity0BVFLnU
-U2lQPxG4qnPRpTAT/Y+58SIua8k3pDWW31dty2xmLPalp3xlKltY71VNKFUqGrpE
-3DdQ12epWie77Oz/5SXicF004YVMl7mQSguD0Sf5/cPgTducMv2qSqs3mqpyOB5G
-uTRvMSASaEYmauGA8vhjUafQR/fv/5t0IxmQIbe8ec6B05YY6sdQlmlWjMgZu2Y/
-1CmIuQQOZeGWHCxFguhvIFU/59T3YQWmwLPN1Hzmrr6DpxZaSx+nnCa2bxbHe2Ap
-+fbdOfpy18kkdlIIitWIi/OFPg0g/KpooAw+w2puFZDbJstG/lS5ztWfItaUtTph
-607JQM6mpbjEOJvg3MeiJdScOqa1GJfyx08+FmVm+saMHaIgN3ulWq+B7Isn28sy
-TKrIw+CF
-=9EFE
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmWYumYACgkQS2nKJ6mG
+Jl3/JQwAv6MMNT8xIjCzpBpy6XiW17tcQ8Wr06shBQvL2VXsPHhYtv5DY62V3sXp
+tRs27lyvfA0JzdPu7S/3XtcbsPO5dLGmYC0EhEPRlkSUrmjqW3nVYbbwau7SuWwo
+zBYJ6ZlJSXasNZn4D890GdB6w2nvfxvR7aZCV2+kXaC99ID2ngCDXhxOtyH6LklV
+KYhEp3D00ciEUCXKH6AQe50B92eP0mShkH5rtaQUpdGNqHgNcJntJx9jU3T7j96y
+/Tmsj8D4BunLDrPWfcNodUDET929pzB93cN7tVOl1XDLldhEmiCXrm24qMYwyjbM
+6nTaP+IB60SoxlMMFmUpKEPgkRrMdvz6LIhf4LeUzJaoRiCQ6kq+lGKMVGjV9FVo
+tUUzsskWQb+Z1Qh8p9/hAHD8EbwdExJzIhuRbPxjQUwRSaofT3S8Zk9goCk7quF9
+SJiHSwTJHpUMHHB/KrvTJdmMARrGQgBZ4FcvAimDwOEIp8HwSg4aqNFbceIJF4KZ
+CkOyXCm8
+=uGY9
 -----END PGP SIGNATURE-----
