@@ -1,5 +1,5 @@
 Package: flux
-Version: 7.0.1
+Version: 7.1.0
 Source: flux
 Maintainer: Flux Foundation <info@runonflux.io>
 Homepage: https://runonflux.io
@@ -10,11 +10,11 @@ Architecture: amd64
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/f/flux/flux_7.0.1_amd64.deb
-Size: 4923272
-SHA256: 41fc810073606637936910f663094bc3537f8c6e1daaef299e1cc270238e4a69
-SHA1: a84cda0a32c9e50646a802018c1f52094b911501
-MD5sum: 425ba8f08ee102aea90aaca7d5735549
+Filename: pool/main/f/flux/flux_7.1.0_amd64.deb
+Size: 5410234
+SHA256: 67f435f396d39e6aff881538196dbb84300d7fcb67d1b3d064b9ef3b7b87e8cb
+SHA1: 5d8fab3f5517d9f932290c2b46aaf291098512a7
+MD5sum: 523ecdd401c764d1a761df117c7b8af7
 Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
 
 Package: fluxbench
