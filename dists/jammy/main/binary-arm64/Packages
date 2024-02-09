@@ -11,10 +11,10 @@ Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 
 Priority: optional
 Section: utils
 Filename: pool/main/f/flux/flux_7.1.0_arm64.deb
-Size: 4883506
-SHA256: 089fc7b6a731ef6a247a4446973f49d4dc49ae0af89fc356b97168e8cc375a2c
-SHA1: 9337bfe89a759564ffd024d64e7697d462c10aa8
-MD5sum: 11ef83257d386779455f2f0a369334a2
+Size: 4177848
+SHA256: 18a101ae1d0999f8e259ebe02ad6f00e087ae0ddc67453a3fb120d98b4add5fa
+SHA1: 6a3eb35be4c031124d2beb33caa5d1f241515830
+MD5sum: 5501bebf838f353250b5ffb3667147ec
 Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
 
 Package: fluxbench
