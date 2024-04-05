@@ -37,22 +37,22 @@ MD5sum: f1dd803f1cfc1f71aa13dbf4df01bc8f
 Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
 
 Package: zelcore
-Version: 7.13.0
+Version: 8.0.0
 License: UNLICENSED
 Vendor: Zelcore Technologies Inc. <info@zelcore.io>
 Architecture: amd64
 Maintainer: Zelcore Technologies Inc. <info@zelcore.io>
-Installed-Size: 359344
+Installed-Size: 358101
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Homepage: https://github.com/zelcore-io/ZelTreZ#readme
 Priority: optional
 Section: default
-Filename: pool/main/z/zelcore/zelcore_7.13.0_amd64.deb
-Size: 90892848
-SHA256: bf01ae5e6b6565a7ad8efb213e40403455b0373ca3e78e59a72ec160025e7dc2
-SHA1: 15f629b95d1018783687da0f1ab1f829a5097361
-MD5sum: 79e5bb9f8cf807b044bce1c065d7359c
+Filename: pool/main/z/zelcore/zelcore_8.0.0_amd64.deb
+Size: 90536966
+SHA256: 4f7f05434139d47cc5f47a0be109bf91db3921eda8056f0d5f60e725f17b4d44
+SHA1: 9f748eeeed0173884535f2cd5002d1b11215f340
+MD5sum: 7e9a8111e6c42ce73f287043d75fb8ce
 Description: 
   Zelcore Platform
 
