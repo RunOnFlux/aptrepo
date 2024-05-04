@@ -2,7 +2,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: bullseye
-Date: Fri, 05 Apr 2024 08:06:09 UTC
+Date: Sat, 04 May 2024 08:42:57 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -10,8 +10,8 @@ MD5Sum:
  a5615f220bf0ad040e9983fa3c011c85 3492 main/binary-i386/Packages
  6de36f9a6cda9173b5990773080dc730 1035 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 2fe5fb3af1bc11725638799536b78aed 4200 main/binary-amd64/Packages
- d7dd1937ec5f22a0be622227e5bb8096 1350 main/binary-amd64/Packages.gz
+ 2bd6e5250879d3ba4a95e13a31261c7c 4200 main/binary-amd64/Packages
+ 2627e19a0261fe02e9d4c3c4dfcca51c 1351 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  6bf7ec9a93a46fe0f34b87d641726894 3500 main/binary-arm64/Packages
  84fa16f62958756b734cc4064726f49e 1034 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ SHA1:
  f3eaac52ecb36971dc1e650e807f11f6547643da 3492 main/binary-i386/Packages
  47bda34a7edc49beffb8a9b12ed38e5604e2dad8 1035 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- a418fc410c3b2c4364caea768bcdcb15a5e25bf3 4200 main/binary-amd64/Packages
- e500637ef44fb80dfb87931b3f42a17158c36c4d 1350 main/binary-amd64/Packages.gz
+ 96f524d772bd0217b54452e87e50878d2af055e8 4200 main/binary-amd64/Packages
+ 6ab11ffe53deb57f226cc7a63b063f0d797b1d0c 1351 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  928083e9a279373611a72b8657a4a7dcf4962c52 3500 main/binary-arm64/Packages
  c11bad3320ef66a6325044b1811cc79082aa4aa6 1034 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA256:
  02d4d4262592ae7fe47813084caf3bf54c29a72b65ae35d1cb233f469bfce73a 3492 main/binary-i386/Packages
  379b84536cd396fa5426cdc5963373f09d138b438a3bd446bc05b506b89b30b9 1035 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 667aa7aa8a84c861fb8b807c74489d3266ed72cf210decbe64c037bc046e6405 4200 main/binary-amd64/Packages
- 77a000cf540cdb74bc0a05e69d9759a57c67ca4aa85190e65e86593bfa99a1af 1350 main/binary-amd64/Packages.gz
+ bbae70f63bc579f4294007695d0ccd273252838396f4d8be06e508bda5f90536 4200 main/binary-amd64/Packages
+ 0608b5b1d5eea0c21f01b022951097a7f71dbdc272734289eba04be8d73800b4 1351 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  ad0681b5f46ea01cc40b91db67e001828e99c3a660d7329a0188491655b307cb 3500 main/binary-arm64/Packages
  6e91347d6e5dbdad54afdfabcb33dc43d9b5215b642676283617e372dca057d7 1034 main/binary-arm64/Packages.gz
