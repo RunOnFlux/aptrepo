@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: focal
-Date: Wed, 17 Jul 2024 08:41:25 UTC
+Date: Tue, 30 Jul 2024 06:59:03 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  a5615f220bf0ad040e9983fa3c011c85 3492 main/binary-i386/Packages
  6de36f9a6cda9173b5990773080dc730 1035 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 660dd4b30dfb20624581ffd10cfa3059 4200 main/binary-amd64/Packages
- f8c0e07958dfbd409bbe2932e40ed64d 1357 main/binary-amd64/Packages.gz
+ 801a7b78972751f1c6f69edb07becde4 4200 main/binary-amd64/Packages
+ e2230f938f81312ed134424574fd7221 1352 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  6bf7ec9a93a46fe0f34b87d641726894 3500 main/binary-arm64/Packages
  84fa16f62958756b734cc4064726f49e 1034 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  f3eaac52ecb36971dc1e650e807f11f6547643da 3492 main/binary-i386/Packages
  47bda34a7edc49beffb8a9b12ed38e5604e2dad8 1035 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- f78195a6e3808e413ed2b8b9771981e8409cd52b 4200 main/binary-amd64/Packages
- 46a5ce28c2366642841c45843af2754034e9add6 1357 main/binary-amd64/Packages.gz
+ a0adad4b3a042777ebb7b888a8a5378188dce53d 4200 main/binary-amd64/Packages
+ 911cd50861e244640622b9e7f49928ac48337716 1352 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  928083e9a279373611a72b8657a4a7dcf4962c52 3500 main/binary-arm64/Packages
  c11bad3320ef66a6325044b1811cc79082aa4aa6 1034 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  02d4d4262592ae7fe47813084caf3bf54c29a72b65ae35d1cb233f469bfce73a 3492 main/binary-i386/Packages
  379b84536cd396fa5426cdc5963373f09d138b438a3bd446bc05b506b89b30b9 1035 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- d684a2fbdbcf2259854bca839acdc9ad0de1afbbf6b79717981a689ced6707c8 4200 main/binary-amd64/Packages
- 449e7c299c5677c7a6406e584aa53f11b25ba8956d8e6c91fa57eda8d2d60dcc 1357 main/binary-amd64/Packages.gz
+ ea84715fe157bdb16a8a79e426447d3eaec6e1c897cd8a2d7097d2de6d829cad 4200 main/binary-amd64/Packages
+ 3659e2529a3d0b6f697254d978063de9a769e00c75802403acb0b719f593df35 1352 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  ad0681b5f46ea01cc40b91db67e001828e99c3a660d7329a0188491655b307cb 3500 main/binary-arm64/Packages
  6e91347d6e5dbdad54afdfabcb33dc43d9b5215b642676283617e372dca057d7 1034 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmaXg7UACgkQS2nKJ6mG
-Jl3Lqgv+MITPLvnblFZ4XMbCmsnvuOhaUlmjqGxUJgcjBZZ9f8bpARKN+L73fPgv
-7sbaJWG0t1KY08BlqaWpj8hz3vCZCN2hlfIePaw2o/vK/3rpDQaFizFR3oI5PrAZ
-9uNY/DZgkyRDy0HXflyOFxwOs4kbTKvhMb2VuMPZTk0Vww4qYyrWXnKJEB1AdCHR
-Mt5OfDPo+gnYk1XGc8KHMHtLPscFruuoRvTEOEz9uhbKvHALT1wzwV99BPi5AQMi
-lJwuDqk5M87hkvPRHgoCJU4J13jg3Nstfq6Hh7jS6YDdlS/EKkx91p+tjs4XJBIC
-b/og68HfKozdthKc65SEUA94qiFOoW40evXd+07JN4AFmdlRDtdpbkg3IcR8lS85
-5zJ9BbMsz5YITm5BfJddLHc/78pRAmR6ndyx9oXxwQcBEBro7LlR6IVM4MlwVXrI
-4wgmZtrdhe71ipdPnD+hYbHa5FehV9GovcRF+pBQiLUxw34yEbbkYr8zb44bHGRv
-gwTu/9gF
-=Ic8o
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmaojzcACgkQS2nKJ6mG
+Jl3a7Qv/Y1CF764fsGimjK5kiHIFT0Ton7qy8yYnYR/EXM0o70l9qJW/O1jpEt/A
+qsigwwCy5MV5geBso/WSbMRGVUys/kbVZrg00QPe6DcAK0rMKpt4kmxxEYqjRQEZ
+Ap5CbcKIaeFaZ0YOp56BrVDw/3Zui/bUMt0gpirfocovqA5ePC2ytGXqtd5/99hC
+9sHSwuSTPVNcTvgc8ym32lfm4xxzs1tNJlAGOjIkMK5i7E3jcC36/aTIxSajPqb1
+HZBMdfbXi7WMi8ctVlwJwFbh2cLYy3Ab41ZiucThBUz4eOCBskYX8GcRKnkk1qUL
+0gYWyLIkKrDbqTzRuxvB5GAbLRkgxFOlcrRjg7AlSSfECctzn9qXskxqeIBXIt3q
+jH3PL1+3SRw1cC5wTSFHl7A8/dlqqegCPa3nLfzxk9zULTVSefe4mp4lSOSAcUC3
+kVpgxWLiX1/uToDV6ZeS5+i0mohlVZhvc45pZgO3nSXJsxrEbYZRcSaWP87XPxKR
+mQ+/VCQO
+=WRFp
 -----END PGP SIGNATURE-----
