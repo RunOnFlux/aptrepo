@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Tue, 30 Jul 2024 06:59:08 UTC
+Date: Tue, 06 Aug 2024 06:02:34 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  15a5bd09b5dc0466850437a78740a5f1 1742 main/binary-i386/Packages
  ddf19a516593f6b99225c15c3a61d041 773 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- ea137e447b93a25b5d6375719fac2622 2446 main/binary-amd64/Packages
- 28fe5baf73a5e9a88154f6a4241f2444 1088 main/binary-amd64/Packages.gz
+ da38aee4e2927ee4377f94f6340c43a3 2446 main/binary-amd64/Packages
+ 55548f7cbba5a31572b689adb848771b 1088 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  8531576c0ad1b8cdbfa5042e65044035 1746 main/binary-arm64/Packages
  31b013443b1451cc0612b2b0322f398f 773 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  394574fe6a964772b2bbc6c7d4dd53655235b589 1742 main/binary-i386/Packages
  d84e23c7ec8cc165c72a3fd307891944ecd34028 773 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 8dba85936a03df2edce98d65dfe0c41feed5a8e3 2446 main/binary-amd64/Packages
- e2552671b12c3af9e3b61c2594638ff59cdbf40b 1088 main/binary-amd64/Packages.gz
+ 6d97ed97a9dd1172cf04fee2def4c8ffadddfc4e 2446 main/binary-amd64/Packages
+ dcb7fecab9ff521eed691e2bda2b78c77654ae62 1088 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  a2550ff51eb0368955486bbfb29baed483f419d6 1746 main/binary-arm64/Packages
  11fc193d63ae9ac03cde3147d4f377907a14bc9d 773 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  3f6ac68eb5bf1cea6259ca1ede76ed8c3d5b49a0c81a3dc9d0ee5107b9219a81 1742 main/binary-i386/Packages
  a36857cc93a0bae8f66e029de04b9504f5d8d5615561a2a5d292fd91f844e409 773 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 48ba552e1ee8bd6c79bff5ac2068cfdc1d3d461f6be453a92da549fb7ddf2c97 2446 main/binary-amd64/Packages
- f0ebd8c7ef3eaf99a4eddf1dc76010640d38f224593968761fb6465d421ffc00 1088 main/binary-amd64/Packages.gz
+ 924404e868e50fd2cabd394670b653b8911eba0cde5fb79aef30e187c9b882d1 2446 main/binary-amd64/Packages
+ 54e2b82e529f83afad05a14434df8f91830928d0409fcdd45a68ae5beb097a49 1088 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  d67de7017ec75006dc329aaa39f1e8eef11425738e96d9f00176cdbf6ba1b77a 1746 main/binary-arm64/Packages
  d6fe0cc5e7c3f12c2420fcea6816fa74fbe1fdd752dccb8dd66c1972f04fe59f 773 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmaojz0ACgkQS2nKJ6mG
-Jl14lQv/ZvpCHpBwFIrMtvwA1iwOmsFSPe16O89fgohuKar9cU6xcQLF9XePBYW7
-JqbPwVVCHXql08L5cQYgFSdzilJuAZpzHSsEW3Io15zpNznt9jY2mZTcDX6FJRsR
-CsQcM3dmgmBeqKWBoJX2LjGIG2twyPQQ9ctBNwEuFgi3yaTQJgExPKYfRpWAwc7W
-XaRuTIaYkB3C2iGu5t+wdVaQydc10mHXrIV9wIc60iuvLF6Hz919xTnBtLbiiwQx
-Jv8CPNd98OdOZKFLdpOdWgqAgSgl+Kb+HNrId0Hlhkuz/GgnZYs3zrIR6yQErINJ
-4jr/enW0et1dowk21eBY3av8Qed6DR5hBN6LyhN76F9+TsZ5G0WoRSaA+RVCH7iN
-9uNk0Y8UvtuyIBWIyR/vLpA7ufEDSYZx01Fx4M/wQmusAq91BFw9OnrjvkWUUH6T
-66Q/5pwL1Vpinh1xFUj3ZWAGWSy2U0/8lG1oQjY/KW/KRkPI4ACPjM2b5v9eEc1G
-kilKDKdJ
-=qmcn
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmaxvHoACgkQS2nKJ6mG
+Jl3mLwv9HLB+AGkHAlmpXac6Bzo5tt1b/Nez4P46N87zp3+Ab2Lx3I74eWgXxUrh
+7sTztQ+I2U1aXLVnR1GhYHSRB6W3uXyxBxJtygynVbkwZs6onhE9LrYe6DrqUE0E
+z4LQUlczrvw1UmhouMSLSM/i5uuU05xaZgWznZBsrPuRHLneufiKG6pC4aBaIKuv
+qV19KOIu+06UNVsunwGJceC0rspNIwXzJk//bjKNW6+RC9sUpBhcGojiWv6/0nK3
+byoUxZP+Vy3xKAAtQSSU7yBz8IE3ucAVNPDRmNRPSTKPWSrJyaNZDESxj4ZsnsGg
+mEWWoZxJjUW7nfjURe6GBCK3bVp7/7XCJiwu2yGdPJnp1X8+h4gwK8T385LBzBFj
+6rl85zhb662nyO9eEOFXiZf6Gxji29142Wt/C2zcR5Tg8cAmFuJ4Kqdxs/YFukNd
+yiWuzEPYiV/AYNoBSlo1Nh+hbFGMAH1/VteqxvkBTqbuZRPFR7vBy3lRT8JsfgbQ
+Om62VwNU
+=pmMN
 -----END PGP SIGNATURE-----
