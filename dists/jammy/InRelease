@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Tue, 27 Aug 2024 06:23:12 UTC
+Date: Tue, 24 Sep 2024 04:45:28 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  15a5bd09b5dc0466850437a78740a5f1 1742 main/binary-i386/Packages
  ddf19a516593f6b99225c15c3a61d041 773 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 5ce42f61dd4c5966bf4ce7a42c6411dd 2446 main/binary-amd64/Packages
- f6f549f7744e979726a02bdaaf5cfcae 1089 main/binary-amd64/Packages.gz
+ 86ae4a2fb1dc1abd3d50641fa6d6e9a2 2446 main/binary-amd64/Packages
+ 015858bc85aab0fa2edcd2a5a9686383 1087 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  8531576c0ad1b8cdbfa5042e65044035 1746 main/binary-arm64/Packages
  31b013443b1451cc0612b2b0322f398f 773 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  394574fe6a964772b2bbc6c7d4dd53655235b589 1742 main/binary-i386/Packages
  d84e23c7ec8cc165c72a3fd307891944ecd34028 773 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 53ac3304010793307c07f4c69f3696520f0db2e4 2446 main/binary-amd64/Packages
- 55554343c5a3a6fe18ddc8ac34610f228006606a 1089 main/binary-amd64/Packages.gz
+ c0948103a1bc02216c2f6d7615a2429d2e39615c 2446 main/binary-amd64/Packages
+ 2a133b3090d9ed6c34eb1024cfb252638adb4973 1087 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  a2550ff51eb0368955486bbfb29baed483f419d6 1746 main/binary-arm64/Packages
  11fc193d63ae9ac03cde3147d4f377907a14bc9d 773 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  3f6ac68eb5bf1cea6259ca1ede76ed8c3d5b49a0c81a3dc9d0ee5107b9219a81 1742 main/binary-i386/Packages
  a36857cc93a0bae8f66e029de04b9504f5d8d5615561a2a5d292fd91f844e409 773 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 06d63988aeb6965bf77a2d498affbd70875bb6001655dce595debfb5e46519d7 2446 main/binary-amd64/Packages
- 7ce2593f6fc9dd6fe4f981310be2e11851b8aa59574305af821d0a51c8db8ce0 1089 main/binary-amd64/Packages.gz
+ 32a666abd1f63cc03286936d693455cb190991afc1088f2a6e777aacb75d3e4c 2446 main/binary-amd64/Packages
+ ac5b13d0f743566797a792c2c4e32b22c3f87f4eefb46af1d5bc4b38cec69342 1087 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  d67de7017ec75006dc329aaa39f1e8eef11425738e96d9f00176cdbf6ba1b77a 1746 main/binary-arm64/Packages
  d6fe0cc5e7c3f12c2420fcea6816fa74fbe1fdd752dccb8dd66c1972f04fe59f 773 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmbNcNAACgkQS2nKJ6mG
-Jl2Rwgv/fiLtwR9bP3264SSfqz7PSBrE/QkW5yBTtM/IE6RA57ypHTtv0sSE7SBC
-GtaMABded0XlC3+alUcN5UOYjHM8hc1qSoxM0xXMV64TWASO6/ss+C9VXG7d/mX8
-W0jDlWChuLBmKXqXQHY3IYMIlZnQZ8qkstFHprEwj44ByYRvKcSGvxTHPXETQOHT
-EYjoDyevagpwebmc0AST7HDTHfVrT5nYxh1qmBvIarEs+Z5VPFDkOhhgePGA+xfn
-eLPIw27iuZah2WmZ8p+JTo9n5miOv15WzZXgXNo84zr4GMuSxiU9RgX+JabkVJdF
-JztBodc4m6se064KNR/2evDXnbKsycL1WEA7ZBkVebMsX6bDtJ4zJc5LeAVvPQ1j
-0dtm4teEmMiXfnD+Sko6eXUnuSK8vCwy7XFvLbomOKFKwZIw0NPnqsUuYKVFJNhR
-vBIRklTgQVv2Gffboz+c4O4MoZgsuJigCMnYCDc+J6+JmQlBnZryWYeYqOpRj0oq
-z+R+vI+o
-=4QWb
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmbyQ+gACgkQS2nKJ6mG
+Jl38LgwApw6r4SoGeiCA6EptWJAwiQrinJUv0voisR7pp5lx2bxSV9jUtYjqxl+E
+i6S5ZeYsUp6/ockGfvTstZGc2EnqmllB9VecYY3F7C7SJH6XeVjh/hXKBi44te8T
+F2ufdj4EfGVtwEcAel7j3zaq8T0j7vZNHcO5By7w2+89tlSR6roaFwa2QW7E765k
+k4fjovMlWog07UHo+LhStcY9xBWgWbSP78zDwM0KvpxyGtNzC9XIC6yBf0c9slx7
+OCs0eTlN9DJCflk7NXl8JYhz/dDF/8V0Q2fd6ZgsB5e6zaBJLukmJzUXrUKVn2ot
+a8OVSyBOIpJvfd/lJVzqmCOujBIaW7/DBrTMpQ1PVWflAy5QuwX2tuRYVZ9EWx5S
+HMgGcuMBp100rP85da9i4fya+t6FcxCP0nT0q8QBNMEhnO0FIRQrQUhXuXpS4iuH
+sQW2Ye+lrBP2INfPmMHd0Koxh0+BZnLt/YSJ+I5aOfszXgONB6gYgkEaASMUTkeW
+Gp+J8a8d
+=EsUX
 -----END PGP SIGNATURE-----
