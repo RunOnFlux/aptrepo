@@ -2,7 +2,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: impish
-Date: Tue, 29 Oct 2024 16:25:52 UTC
+Date: Thu, 07 Nov 2024 17:22:44 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -10,8 +10,8 @@ MD5Sum:
  15a5bd09b5dc0466850437a78740a5f1 1742 main/binary-i386/Packages
  ddf19a516593f6b99225c15c3a61d041 773 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- e0ea33ea2519636724d7803b3bd91157 2446 main/binary-amd64/Packages
- 539ff95a6c7876f653ef003f30a46fd0 1087 main/binary-amd64/Packages.gz
+ 6add464a26f4cd190c67e5d3ced5526e 2446 main/binary-amd64/Packages
+ 6abad8723aa0e90daa4566d3606c788e 1088 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  8531576c0ad1b8cdbfa5042e65044035 1746 main/binary-arm64/Packages
  31b013443b1451cc0612b2b0322f398f 773 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ SHA1:
  394574fe6a964772b2bbc6c7d4dd53655235b589 1742 main/binary-i386/Packages
  d84e23c7ec8cc165c72a3fd307891944ecd34028 773 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 6b0a76067185b1c2d18fdc3a27edc6ecb71123b9 2446 main/binary-amd64/Packages
- 5df098beb2e3bf3da6ab64aac07d6c22ad61ae11 1087 main/binary-amd64/Packages.gz
+ 895f07ccfe281d861f9f6e6f589292a0f2c5ae1a 2446 main/binary-amd64/Packages
+ 3538227d6b0d0e5bcf1bb25093e33394507ac889 1088 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  a2550ff51eb0368955486bbfb29baed483f419d6 1746 main/binary-arm64/Packages
  11fc193d63ae9ac03cde3147d4f377907a14bc9d 773 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA256:
  3f6ac68eb5bf1cea6259ca1ede76ed8c3d5b49a0c81a3dc9d0ee5107b9219a81 1742 main/binary-i386/Packages
  a36857cc93a0bae8f66e029de04b9504f5d8d5615561a2a5d292fd91f844e409 773 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- bd6da502230ef8802a67dcf126d41ab7d918cec6a10187f722720ab7b03d5bfe 2446 main/binary-amd64/Packages
- 9610d292157bb2209e97a1d83ce405d03944f0e8cad2c6b3aadb77624f2b5ca6 1087 main/binary-amd64/Packages.gz
+ 57dc0a0c3342ec9cbbd27676cff3804b2222d82895b357c6443bd22c78af7c22 2446 main/binary-amd64/Packages
+ 89000fcbec8ea916b4c67c11984ea6d7c08e86fe9a1e23fa1d19e693fd77441a 1088 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  d67de7017ec75006dc329aaa39f1e8eef11425738e96d9f00176cdbf6ba1b77a 1746 main/binary-arm64/Packages
  d6fe0cc5e7c3f12c2420fcea6816fa74fbe1fdd752dccb8dd66c1972f04fe59f 773 main/binary-arm64/Packages.gz
