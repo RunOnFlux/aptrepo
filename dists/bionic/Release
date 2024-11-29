@@ -2,7 +2,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: bionic
-Date: Wed, 20 Nov 2024 05:21:38 UTC
+Date: Fri, 29 Nov 2024 13:42:41 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -10,8 +10,8 @@ MD5Sum:
  a5615f220bf0ad040e9983fa3c011c85 3492 main/binary-i386/Packages
  6de36f9a6cda9173b5990773080dc730 1035 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 7d89b4c921d136d19c8b75db18796e87 4200 main/binary-amd64/Packages
- cc352c7c0e0e24b82f57e3ce097c00e2 1350 main/binary-amd64/Packages.gz
+ 7682efdffe41d413ed39f8968feda560 4202 main/binary-amd64/Packages
+ 5b3ca7107fa0e8c02d72e6f3815211f1 1354 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  6bf7ec9a93a46fe0f34b87d641726894 3500 main/binary-arm64/Packages
  84fa16f62958756b734cc4064726f49e 1034 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ SHA1:
  f3eaac52ecb36971dc1e650e807f11f6547643da 3492 main/binary-i386/Packages
  47bda34a7edc49beffb8a9b12ed38e5604e2dad8 1035 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 6e527c2bd360a67553c517d42d1d40efc0dd50da 4200 main/binary-amd64/Packages
- 0eb6e6179ef9bf37f04700595af7a81befc91ab2 1350 main/binary-amd64/Packages.gz
+ 11b34b79818a0b9af944b8a9dd2130c135939d7d 4202 main/binary-amd64/Packages
+ 17ac8a33986e7d22eb9f383533f1cdd5607c5e7b 1354 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  928083e9a279373611a72b8657a4a7dcf4962c52 3500 main/binary-arm64/Packages
  c11bad3320ef66a6325044b1811cc79082aa4aa6 1034 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA256:
  02d4d4262592ae7fe47813084caf3bf54c29a72b65ae35d1cb233f469bfce73a 3492 main/binary-i386/Packages
  379b84536cd396fa5426cdc5963373f09d138b438a3bd446bc05b506b89b30b9 1035 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- c4c3782106be8c9281606f2332474d49e59a085e9aa463f76b9d435dac4fde53 4200 main/binary-amd64/Packages
- 88c41e2cdda5cf32347f200e51f296506cb8057d018428669e5f983746cd1319 1350 main/binary-amd64/Packages.gz
+ f3d07c5cb3daa93d37f93dc6f4c06a15ac82d3a04e6586b3a8434a7889ecadc3 4202 main/binary-amd64/Packages
+ 310c913885c2578ffa774ff4946a5ed212cb451992af2130fb37a1e1c8d1cbf5 1354 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  ad0681b5f46ea01cc40b91db67e001828e99c3a660d7329a0188491655b307cb 3500 main/binary-arm64/Packages
  6e91347d6e5dbdad54afdfabcb33dc43d9b5215b642676283617e372dca057d7 1034 main/binary-arm64/Packages.gz
