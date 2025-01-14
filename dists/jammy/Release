@@ -2,7 +2,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Mon, 30 Dec 2024 12:15:28 UTC
+Date: Tue, 14 Jan 2025 11:05:16 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -10,8 +10,8 @@ MD5Sum:
  d80505df655958f6c5a6ef5760bc5cf1 1742 main/binary-i386/Packages
  8495de44a51c40b41cdf1d7bfe1b583f 771 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- d555853ae06080b21bbdf4ba63358bbd 2448 main/binary-amd64/Packages
- 2013128bfb203020235f1957aaebb479 1084 main/binary-amd64/Packages.gz
+ b700d241c84baa77dcc263ccdb6357aa 2448 main/binary-amd64/Packages
+ 8ea86162ec86eb96b8a95dc5a523cd42 1084 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  c8ff09265e5b50503793dd45f2055e63 1746 main/binary-arm64/Packages
  5dcd355815c44faa53311710f2b13cfd 772 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ SHA1:
  a72fe12cee304917b8a9b307e65dfe92ba699d13 1742 main/binary-i386/Packages
  5782fab9b79b78b8e4651d9d341d5f7d366b2b77 771 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- ab619813ac43b13048df04c94ebf125d2259c7ca 2448 main/binary-amd64/Packages
- 8aa10a5ee1b1f3e4afbbfacecb15c85200fec078 1084 main/binary-amd64/Packages.gz
+ 3d2e93788ffc6e599a351e60977b8dfd16d750d3 2448 main/binary-amd64/Packages
+ 8f962e5f84eb286eaea72d2fbbedee545330220a 1084 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  7a0f5935e0ef77d18822358a4aaa4dbd3bd760b0 1746 main/binary-arm64/Packages
  117de905fac1675be84514968f1e553da5878640 772 main/binary-arm64/Packages.gz
@@ -30,8 +30,8 @@ SHA256:
  ba0656ec96367ee3e1522a5e4adfcae33bb5f0259d690f7dd9eaf31fa7975a48 1742 main/binary-i386/Packages
  c4ef4afecb73b732580acab04fd1f733534177206f2f2f483357f218ed1c7dbf 771 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 7aa93fc21a71ebb5b5150550355c39c9e64bf1a73dacc0f96c9c9a47ca903e9b 2448 main/binary-amd64/Packages
- 3139ac9376bf061e4f6ac551852a424cac6dc6b8c3664537c4d2ea72ad724e29 1084 main/binary-amd64/Packages.gz
+ 56743daf07b55d840c29f1516226d79c829790c3ff2b6b1de3a19104ca7ed40d 2448 main/binary-amd64/Packages
+ 08d2c97dcd1594ee1b36e1673de48f4bfb67f7db527ca5a866da52ed9cebdb88 1084 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  2342804e92660c4aecc35db1c8b3cb1d3783802e3f971f53fd70022e76239b48 1746 main/binary-arm64/Packages
  10172287e5fe6feae3e740e84c7f888c90358f809065aa7660b50561f9dcc504 772 main/binary-arm64/Packages.gz
