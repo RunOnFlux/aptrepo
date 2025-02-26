@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Tue, 28 Jan 2025 12:32:02 UTC
+Date: Wed, 26 Feb 2025 09:55:16 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  d80505df655958f6c5a6ef5760bc5cf1 1742 main/binary-i386/Packages
  8495de44a51c40b41cdf1d7bfe1b583f 771 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 8ba62c695c6a1fcf768c88e68ea8f4f7 2448 main/binary-amd64/Packages
- c755cc0b75c3099409458cbdaf7f2bc9 1086 main/binary-amd64/Packages.gz
+ 18912872fcaa5103b9ada413b7446b18 2448 main/binary-amd64/Packages
+ 59c4da9ee368ba7eb122fbc850d057ae 1085 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  c8ff09265e5b50503793dd45f2055e63 1746 main/binary-arm64/Packages
  5dcd355815c44faa53311710f2b13cfd 772 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  a72fe12cee304917b8a9b307e65dfe92ba699d13 1742 main/binary-i386/Packages
  5782fab9b79b78b8e4651d9d341d5f7d366b2b77 771 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- bbddca2787868cafc50c1709d97ca7d75a4b8188 2448 main/binary-amd64/Packages
- 55216f9077314808b60afb724d7f825153b16912 1086 main/binary-amd64/Packages.gz
+ 5e7b9504b4c0bae66b636b66b21686cd349e1638 2448 main/binary-amd64/Packages
+ 27ce1a076634b1a0f17a467c72fb304e4840cb59 1085 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  7a0f5935e0ef77d18822358a4aaa4dbd3bd760b0 1746 main/binary-arm64/Packages
  117de905fac1675be84514968f1e553da5878640 772 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  ba0656ec96367ee3e1522a5e4adfcae33bb5f0259d690f7dd9eaf31fa7975a48 1742 main/binary-i386/Packages
  c4ef4afecb73b732580acab04fd1f733534177206f2f2f483357f218ed1c7dbf 771 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 565c53f716633ad4325a665458027579e2f5a5e49287cb72ace6f113237816ad 2448 main/binary-amd64/Packages
- 81d4ac4ad5513230cce12cbc4cc9186a50411a741d9daa735a5d415fbe7e5a41 1086 main/binary-amd64/Packages.gz
+ 2c777f212b7b1698cfd250b8f44cee48b7c3cd47824fdcf5a72a989120912d4f 2448 main/binary-amd64/Packages
+ 54ece481512cfa8a93a776c08e3f67a69eb856a3cf5a2c728fa78f1748dcca9a 1085 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  2342804e92660c4aecc35db1c8b3cb1d3783802e3f971f53fd70022e76239b48 1746 main/binary-arm64/Packages
  10172287e5fe6feae3e740e84c7f888c90358f809065aa7660b50561f9dcc504 772 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmeYzkMACgkQS2nKJ6mG
-Jl3WcAv6Agah/1Sfi3bP8YEUSfebWwCjUqDiF7tBN5uhhSxJowerhXXGpow2ZOiN
-nGUDxEB7OGQ5WlgsQnQZ7i10J9nO7WNEIxjEuetbqkY6FU8O75jV6paeK0uQIBO+
-zw2l9kPdNFiQnNSNyTI/+OcJ6/yro+ZbyOkuM5ydiX8/gzFE41ku39jK6r2etM8T
-y27bdmt0VOnvx6mXCS83MPFJr02/dtg4mn4Lgx5aWjHJbuyGfo0kAwQg347B1jwG
-LpRXPOLfltmQnwqGPHotAhS5m0oTZ4AkFWS4DjztrqCZC5+r2Hx78GOMpk5xzFqW
-/Rtl58oSLlU9BB2FoeR7jUnSwEoNJCl5h4LgdoM+Tp3QPH6HM8trVmeDPuJBkfyO
-3hfCOvfGDUk1IGOL9ScGI+zOgW+1VXZLqWkJPECltEQwoLNNgTKtpGGJArKeMLos
-i1VMbS9Kn7Uq6KQKpTEE6csnf6MdFpCf20qFbqGNWuzjtQvZnBgPCoMswgOI50SE
-3hlRPZsD
-=mkG0
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAme+5QQACgkQS2nKJ6mG
+Jl3QYwwAsVK6NJdhxU016pNyc08m9ccVTWk70+63bOrRXntUPOy6n3TQ9V9es5F/
+xKdrfVwi4SP0HhTErRSGUarHjKnMHGQADSOFMXEvuxNU3xCwxNE0toPyGoNlnIa5
+R+Qk8zeXx6KDY1GnIgUGLiMpQ3N2Dp6vMhdKpvaJlNwYyun1rTTzmHn5DwP0i3he
+OE8M9wiMeLzhfAoxRiNDiKieJtkEqmOMnO5LvbzO2zRjFzO6xiSA6FCmbglewWg5
+7FlyrZ46ltHMnrzucCd8Ean481F1THkd3760Zlp6+DQmAF/0Ipa/f9J8dASMyj97
+9mopsVTCYgIfDxMgv1uTXU1iKiDrYD5DoyAodhK4jBTieUFg8XbRSja34aFWDcm9
+Blx/pNgIX75jM7Ltlfo+/ePyVK209Bwcj95dBfVTeMXTYri8EHFFlk0UW+XsbkfV
+XhQF1dQK1IwwZDq0jKzMD9iJy2ZJ5ejZd9lET66EtIUoCR8iyBTwnPG7n3CV8mcA
+YwiUSiZN
+=BCE1
 -----END PGP SIGNATURE-----
