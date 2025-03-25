@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Thu, 20 Mar 2025 14:18:17 UTC
+Date: Tue, 25 Mar 2025 07:03:29 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  5a69c84ac7d526563afe8ad7b9655d3d 1742 main/binary-i386/Packages
  4cd5d0287a14176367d9c05687fce601 773 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- bb9f4aa613db708e4d2dffd8c5bd7788 2448 main/binary-amd64/Packages
- 1be1e569cbd97e53dc212c182024b8e7 1087 main/binary-amd64/Packages.gz
+ c972e3cd9df3654bd0a82f3701cbea99 2448 main/binary-amd64/Packages
+ e1a8e8d230702ffded52e2d047e9c82d 1085 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  924470cfc2debcc193d3f35e2ff29116 1746 main/binary-arm64/Packages
  83ee3de27724c14a6628c2430ad6d54b 771 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  41c033d3be39810be6cd859ff547b6c0874812df 1742 main/binary-i386/Packages
  fbb096c2e1d0b97e3518b898165a72fb0b1e9a6e 773 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- b1df010cde9d2a7386571ea00a0fdf25497d3f96 2448 main/binary-amd64/Packages
- 316ded5d66750a3ac704781ffca3f63fb22db85a 1087 main/binary-amd64/Packages.gz
+ 11011fae6ab5e4a14de7242916719b6a038c8966 2448 main/binary-amd64/Packages
+ 8c4cd8f5ff6977b571b8ff3d9327ad8a5ffebb1a 1085 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  47eaf5262f2687a40cfd73478f028bf4aee4c117 1746 main/binary-arm64/Packages
  fed143d3a98a0bf659d55fbce739cbaede0c3388 771 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  15d44b5627b6c67e06bbae4f445f19e2c0465b38fb9be5a364ca7e849f8a1fa4 1742 main/binary-i386/Packages
  e8f4e72baafb7d117b51e0fcea2469868afbd9a4937d51a1d9b2aae6c1e5c426 773 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 663fb9800729964d3ac5cd4fecf7151e6f928b4735207258460b2a99b23effac 2448 main/binary-amd64/Packages
- 00d730033e4b7be0308cb6ad34c285bb95c04ecc2556e26a07765dbef41ac5f9 1087 main/binary-amd64/Packages.gz
+ 7244ee97ab36a70d5f3975327660ae0be0ba5eb838335e1be1b66fd18f2b9e8c 2448 main/binary-amd64/Packages
+ f751c1e6c8e72e2c4e2158daab897a9e4d753e04b813fca41df9c327b469a3e4 1085 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  6fd3bf198f919f02f51407de3e155f34feb08378a11005eb9bdcff75029d0bfe 1746 main/binary-arm64/Packages
  bb98435a7db68ebf5460b24d2013096590bfe630e1f3520f3037de322f760ef0 771 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmfcI6kACgkQS2nKJ6mG
-Jl00qQwApm59IRDj+WreJfP+5yEqhIH/9J6f04QR8hVJ1wXLnGOzAaUleyKrVUK+
-iouh3tx1qMivtat+Qdms2+qz5/bb7p+X8NBRjk1L8vHjdxgrxCJ01frLcw4p/UQe
-DnBAc5bUoFgRwVSWt2ySuSwsxGkzRgT8jBrjz6AoUTw584BQh2iJRrAoMlU/pXF+
-uIpqMNyeC2HZ/ITxYQEK4BKJfhSs+eowO/7VB4Sb9fokgbcqBIW2aiEy/8cT5C9m
-CI8E+U8ea1l41TapCCE+r/w7oOkeOg4DT5LT7I780pv7c5TzhFPSJyBzYLSfh+ww
-kwBVQSJNV3vLu6btOyoqIJkoPmwyGL7rU1EKa8xsRku+AAdxqaJYevRrkgDuoCX0
-cj12CGJFi0NJ66B7U8gkT+VJ8RelLDwAn/JvxXY6BiaqhYbO6XZ+p0bR+ixc2QGP
-oQk8VicKe1vtfHwVs3/h6MYtm+quZuivVIJFZiZiWNe4JmLD4OzWEV3jtPuhn+Fy
-2nN5kMSr
-=AQ9d
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmfiVUEACgkQS2nKJ6mG
+Jl1JJQwAswGaqsdVoqpv+k+RFCwxfUtF25QfInyyrpeZUoig2OlgTc+la0cXM456
+sGEOHqHa9SuLPD3je6yrmZYMIJCG5WkaDdbuiN5NUVfJjaacZONyB/mzQyM/acji
+sF6H3hMSCVQIxBbA6uBT+gAcrKH5VMO649MWMPRDCeOsAXv2xnaL71Bj22v+xTgU
+X+hoKymM+DnD3PZRb3wYF4Nut8x07QaPq3m1Y5RLPoMF7Ny/4Y5XP31TyKNHlvck
+bYRBRhC3Kej5qL2UVQ3kWRkl/VW4q9uTC2I4+ywey86ho5iCFhER0f+zWeuxdRs2
+T7Xb//5RNnnT1Nsipu6mHDs7DSnLojimCz7eYTbk8mBQ3hrzya4535wlRwMXPhb3
+eTo9vRUpPg7xjfpwORRNZ1G1cHYYYnCD01ZdVh6q5xtsg0/x5NSEH3ZAm3+MPYz3
+jQN8CfBPwetWjoFZ3gexJTlPZZaiVLanM8LHyN7JhMrhzKXmnwBQJNzeDn8fpA4o
+PhMVMLnC
+=s/om
 -----END PGP SIGNATURE-----
