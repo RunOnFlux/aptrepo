@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: groovy
-Date: Tue, 06 May 2025 11:04:15 UTC
+Date: Thu, 22 May 2025 12:22:20 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -13,8 +13,8 @@ MD5Sum:
  98a1adac99b5c7f117cb1da8c08eee20 3492 main/binary-i386/Packages
  5a475e4dc6bf532e6c29c4930cd90e6e 1033 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- 62eda6410e89bcaa4016eb9ca03e8618 4206 main/binary-amd64/Packages
- 6ee357f5b6d23f0ba40a71d440c967a8 1353 main/binary-amd64/Packages.gz
+ 66b8fe68f1931b91a19d65c9fa09fcef 4206 main/binary-amd64/Packages
+ b540c769bea77bddb97100eecfd2369a 1353 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  d6a9efcb61b390dd578a0be96d865215 3500 main/binary-arm64/Packages
  f607f48e3864b8f864003764806022bb 1030 main/binary-arm64/Packages.gz
@@ -23,8 +23,8 @@ SHA1:
  b3c955b4f035385fbe6fe9b3ab2b0c96d2d45e2f 3492 main/binary-i386/Packages
  df0f4de121cde6a30944d2c5ea8faaf9bf61656d 1033 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- 6a84d8ff0bd76c2026ac713ae378995501040889 4206 main/binary-amd64/Packages
- 4567950b4870d3ea7cad002030e49cdbd948c8a9 1353 main/binary-amd64/Packages.gz
+ 1cd863a47f8fb238af9c859524c6b3fea26967a3 4206 main/binary-amd64/Packages
+ b54e3c2704ef0dfe8d211f3d6795a0300471ef16 1353 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  1a86ee4b8245a36d9ef44603390eb62f6080ff52 3500 main/binary-arm64/Packages
  28fa50a01a3f1a2a8e7664eb272d36060f9d0de2 1030 main/binary-arm64/Packages.gz
@@ -33,23 +33,23 @@ SHA256:
  2758d70e194cc83d623030e7e89e17a0c256cf6a8cdcc28e25b2bb06465568c1 3492 main/binary-i386/Packages
  bc3924693d1cf2206f67eff93a692ab41362663313e78c0d9e1d083916844152 1033 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- ef9dc5cb86651f6becfd1ec6047f2c823616e08e96ac36ca38e7965b0a6ccc9d 4206 main/binary-amd64/Packages
- 5a602ca91241a5a88d96fb7c70d56e4a1daa2a5f41ec32f82da30f298fe661db 1353 main/binary-amd64/Packages.gz
+ 3ec2f835aebdf43e067b98ff6c894e97b0d60272f09a86b6077220e6924646d4 4206 main/binary-amd64/Packages
+ 0ba9719ad2e327bea7bf0717b18960d5d175335ccdaf26c3a5a5c6aa3a2892cc 1353 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  476cf83239ba7b8e6da7838f5b7cc1784b011bdaa7a1844d85b1c459f6f3a862 3500 main/binary-arm64/Packages
  9c9d067bb54868cfd1ebf4954ec97fa98433afaf91b848ad4c4291fb79bbfd21 1030 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmgZ7LAACgkQS2nKJ6mG
-Jl0W+gv+ItgMRN2czrmDYmr75zToMk0S7ZFEKh2zTwzraBO+VAiZ3k6praRIVEqt
-b5Xr4LfLzVq4Nk5y3DBTS9OfxFERqcZaV5Iv93eS31RPylu/6rZ1MNDuHi54alMN
-jrn7lF0AkMLk6z7Dl7xVD1t87W/yExX4JomRTfc7OdxIbGIT+Bnx9SfqyF2LexaI
-VmJhbuDXkjnd61kUeAUKMw1Je/3hlRGOsmmRZO+3XQK7vF+78tnZDVbF3715sELm
-xNAjTWKoq0+WFNvaYFV64fDKeH7cMlYet12ZFmfW+yLDwwYTw5edcfxhAgj4Mkmt
-rYGP/7hRntmq6i2V94DE48PnQv0u7PtenbVEplbPxsNRyJfOykfzqoUAb5QKIr3f
-Ae3JUIO0cWVauAWVX0xZUxmAu1SsYCvuHnluQ0UGDARtv5AjWiN6TOb5kb0t+Zpa
-Rl/lnAUIzRPH4PPOCId36y4J6NcL/qLhXuYSfQVajLwjIFXTerkj+Ks23GrYETPN
-pn1lexih
-=irhc
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmgvFvwACgkQS2nKJ6mG
+Jl0AXgv/cP/W/EFGtM3210PzwXpqeotnv66oVfXGI+wcezBlc83RhWgatmKAdXEo
+93xtHUFTcpL164/Qf14mn9fKMPqCLbBC3XDKdu4lBBZ3Gmv46EtaMaaHgpMKB07a
+v7MBH/OcFwnIo9CP2AWuYB94OchqMHHO2V+SrZE65gTgm986DFz3WFFkdBKOhUTx
+R+j2fooFSurSmoQ1PCXZogZtMw4oqCzHeQWvFYq+Y3luUMjcD91Yhtw71DflrTvb
+oW+4jHgdjSE/sE1ctkvtqjImDn/uho6vHxAHRVJIh8OmWXN7sRLSdBZUrBzkR/mz
+QJ12/yU1+LEVKGnaNnAV1ziHCDN1ANllqzhqIdd8S2Nl3jxz+/r88v5oc7e0O+C+
+onyzA2oZ1tqaT2+zv4IhXs1nxlnn/MH0gzJEPs1fchXqbxKnv8QKQ1hsYxnBAht3
+kOuKeYSvtN3EUw6flbxUAy4RtYhzNngT/QF4crTJTL95CIK4fVUzgzbhQ5DsnBIL
+9bPH9LDH
+=R/OS
 -----END PGP SIGNATURE-----
