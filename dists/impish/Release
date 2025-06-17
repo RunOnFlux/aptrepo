@@ -2,37 +2,37 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: impish
-Date: Wed, 11 Jun 2025 10:26:52 UTC
+Date: Tue, 17 Jun 2025 14:34:25 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
 MD5Sum:
- 15102d917dfa11a0102774e19cc034bc 1742 main/binary-i386/Packages
- 6648edd56d75e899cd6f25663885f15d 768 main/binary-i386/Packages.gz
+ 3c3a3ece1b6cc2e934cf89b7f983d775 1742 main/binary-i386/Packages
+ 7820daad151677cc4a86c8cfd9dffbbb 771 main/binary-i386/Packages.gz
  b3be8aafdcf8287417651b0feefb4acf 133 main/binary-i386/Release
- e0b198b87c8e6205d9f762adfa06bf8e 2452 main/binary-amd64/Packages
- 4245aa784f77ef9c3444ca62efe3fbb7 1087 main/binary-amd64/Packages.gz
+ 80cd2d4e73180bd9f97dbac1e36ab89e 2452 main/binary-amd64/Packages
+ 8434d2894f43d4cedd94306dd3029f22 1087 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
- fbc0cc1f0711f29bb19f43288b08230f 1746 main/binary-arm64/Packages
- 07fd5c68e35ebe40344d711f31ebf058 767 main/binary-arm64/Packages.gz
+ 02c9dce577f24acb65613d1801b627ee 1746 main/binary-arm64/Packages
+ 57b0ae3aa6723219a75964fa13bfc9b9 773 main/binary-arm64/Packages.gz
  c635b4185917331289ab6080a688e077 134 main/binary-arm64/Release
 SHA1:
- 4a8d6bcc945f1de44f2215045e9409fa3d316763 1742 main/binary-i386/Packages
- 8b49ef303e582dd0dc214824a4437c17b001dc07 768 main/binary-i386/Packages.gz
+ 2672868912939cd9961dab18541242bb42309cdd 1742 main/binary-i386/Packages
+ f838dcbd0c20503d00ece5d28f80d52c4aca9d26 771 main/binary-i386/Packages.gz
  aca4e1081f215829ab2d168ead5fc685ac32515d 133 main/binary-i386/Release
- e69fa0a783591a362c27959d3b92e725141addf5 2452 main/binary-amd64/Packages
- fed987ee8a27d97655f1b1a5671c2362b0fcd2fd 1087 main/binary-amd64/Packages.gz
+ 5a150ff3a262cbe028522b340d4f4856846de723 2452 main/binary-amd64/Packages
+ a86e809832f57a9604da46dcca2710fcfaa39277 1087 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
- 6e797dea2e090a9b643c104335b202e677d8551e 1746 main/binary-arm64/Packages
- 342e1626966193a15acdd65a3cfed78e6d9274a5 767 main/binary-arm64/Packages.gz
+ d68c7a11936730251517180d18d802d8d7e94753 1746 main/binary-arm64/Packages
+ 5ec992a47656ed238a1ac4e22285ad1178999f65 773 main/binary-arm64/Packages.gz
  d149cc553fcc699ca75b593e7b59e44e0f193a06 134 main/binary-arm64/Release
 SHA256:
- e737aa5a3a1cfed3e66c7e9268d10efdcea4907c517d6ee1531663be96555dc5 1742 main/binary-i386/Packages
- 1b5b77f9663ad3156884128b436b466deaa627075c207523f8cdb19882331e2d 768 main/binary-i386/Packages.gz
+ 39b0e51c7c7fa50d532cab02ecc80b623901fc27d14a814ff2b4556c8f530033 1742 main/binary-i386/Packages
+ d9cd2c8944b7d0a70cc0a21595ed2c61b559725c76f28e5e3028f467307ae749 771 main/binary-i386/Packages.gz
  c4e83821ea64c76994a97c4307e157efcbe4522574b9c451ef9d267b18fd03dd 133 main/binary-i386/Release
- 53febb7a6f0230c58f9396058002a9a75f8732820d595c3be7cd25e072b7f786 2452 main/binary-amd64/Packages
- c59d0ba08d47d8eb5feec2c227fac7919dee635d1c93825ca75b717e28fee7fb 1087 main/binary-amd64/Packages.gz
+ 3b3c6744c8f2e0ca9d4636dda542d55bd316134b4c268772fd527567c7a9664c 2452 main/binary-amd64/Packages
+ d48fdbaf4c4a70675955ef2028e6ed13a8d7b53bf6a81d90cdd795ba417f11e3 1087 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
- dc6bce73750506d1dd1567cbf9908c2a83e821d39690fd5ed89367000c44a7a0 1746 main/binary-arm64/Packages
- 8a1ad6039a2ac82f51f70f07de108c117b94f84488ef0655aeb3cf244d759362 767 main/binary-arm64/Packages.gz
+ 9c389008b8dd2c21dc0b82e656c46f129fcaa84bebe35e1ca16c9057cd262131 1746 main/binary-arm64/Packages
+ d5cb3de488fa9c827cffbe4db81953c0933e22c843f0db75d5d9f15c06e0aa28 773 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
