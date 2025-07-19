@@ -9,8 +9,6 @@ gpg --export 4B69CA27A986265D | sudo apt-key add -
 sudo apt-get update
 sudo apt-get install flux # to install Flux daemon
 sudo apt-get install fluxbench # to install Flux benchmark
-sudo apt-get install zelcash # to install Zelcash (alias to Flux daemon)
-sudo apt-get install zelbench # to install Zelbench (alias to Flux benchmark)
 sudo apt-get install zelcore # to install Zelcore
 ```
 
@@ -22,12 +20,6 @@ flux
         Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
 
 fluxbench
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-
-zelcash
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-
-zelbench
         Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
 
 zelcore
@@ -42,27 +34,4 @@ flux
         
 fluxbench
         Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-
-zelcash
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-        
-zelbench
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
 ```
-
-
-### i386
-```
-flux
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-                
-fluxbench
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-
-zelcash
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-        
-zelbench
-        Depends: libc6 (&gt;= 2.17), libgcc1 (&gt;= 1:3.0), libgomp1 (&gt;= 4.9), libstdc++6 (&gt;= 5.2)
-```
-
