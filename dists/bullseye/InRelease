@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: bullseye
-Date: Tue, 19 Aug 2025 07:29:20 UTC
+Date: Tue, 19 Aug 2025 07:39:19 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -32,15 +32,15 @@ SHA256:
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmikJ9AACgkQS2nKJ6mG
-Jl27HAv/USzPmN3R/6+DAYq2KReNF36927U/44TmVxCslEmDj9PxfAZ45WMcWzNb
-utUT/cKqRZwwwIDbQzbV03UkkTbmCWjCTP+e10iAvxp/iD2TFwrMbww1FeZrjJmq
-scc7bFBAfbtEP54LbueS59fRwT2XWIdz8h8O515uNYq8FjLoGvT8mqb+VWGXLIdo
-iyJCSRt3eCc8EMAYxH50mraH1j0KpHFbRHph2ZRV4I89Rq9/FEKTcI2g2XHSPit2
-u1XSaeOj8Wi26638fdVnfRz84eSIMW9AHevQSYaV3O6IAY3AgJkNrdmlkTejza4+
-YRZot5XWAKNaJQVJbw8rvwKyZ4cxANmgr82LvqKBhPYrgJYhS66t3yE0YK9tw/HE
-Z+D1c0ev6lup62DCQrDiiopLNfpPYde2OliYA6OwZxA3P2ohyKE9kEl3ChvD0Zu3
-QX0bVmHOMTua1vL31emAskMePo4QiXTNB0fNwouMbipuCBa2uMRTP/sr5iV1Qjly
-f+UJM+80
-=gwP+
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmikKigACgkQS2nKJ6mG
+Jl3oZwwAsOF0QLhiXxXkS0eGCt70Zn2x29wlB4u3gNMSr28U67LF6jJcaMgf8b3B
+zKHHTCry6cueZLQI7AoVpx5OVEZUMwjKspGE03Ja/QQPfimOZw0/zHmFlngFNsj2
+0AYjt8Zwyclz5tDAQ2MwXYgssjnTXBP6+5sqaC/zCw1/bNNIdBbYyrLMYCZL1S+3
+a2Vlbk+tpi1xtjdMpjOqYt/Mep51erqMHjazznu6gs8LmPPaYvgg7AjtcAiJcYeW
+lU/cg62G/UJLobmE4k1JjcKg8LMBvkw9kbpH+DSJk1q1X+Gqm9+avxRqDIFw+ku/
+D0aBDZWSfPmWdSZAubTo3ElfQ/l75werAWvajiZrUT4V62Aej6b2jsOFQC6VOlV1
+Pk61GDNgWaeBqx0pKX+wZ4tzSSJNg3mw0NlnPqx0SJXhKMUPXROMGXmCKyMrxL1J
+Rm9Va4ZXlb/qZmTMGiEzz7I+XHlzI6hW+MPOW6OIOBzvd/KJH0D4s4WlIK4SNRwI
+E1KgK6vP
+=x+0P
 -----END PGP SIGNATURE-----

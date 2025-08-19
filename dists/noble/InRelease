@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: noble
-Date: Tue, 19 Aug 2025 07:29:28 UTC
+Date: Tue, 19 Aug 2025 07:39:17 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -32,15 +32,15 @@ SHA256:
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmikJ9gACgkQS2nKJ6mG
-Jl3lAAwAp/R+f7fi+TzBbpTdO93OF9avwLexyP5RJgXyBmH06Pqdi2KwVwbFw79a
-bYkL5Ip3QXIzEnyBi6mCdZH4mzFp/KZk4vTYSb06YjkET8waayt6HTbMCNbtZ4mV
-wZ8yOOGTMrPrVWXX30aYkT55nVYaZcx1EcJvbORuIEG5mPBS0G8xCx9R0zAPj3+N
-5t5JkhIJxj604/upCcvH0YmWcP9rO3ibjcjMll5aIq/vW5RctePoz8JoYG1KhmpZ
-SmRAr4mZqkq1rMCt6aW62h+lr0zboAWkacniMQeZACHqQt+qYnnPjYNXFYlArOj/
-5ignv+377NaQJ9dlIh8wOA0Ks+h+L8Hwxmz1tGIXiqWXpi7dRfGmvKB1CI+4KymV
-333deenKqphzJCda47BGzGSPcOscKARQkTPUQKH/gcXVUu6hxOnUTi1laYgRq1cZ
-i2UP9JkwikEIzjd3ysWXLfK3nNjNEZeHMIWlPUhIwNgA6w+eVKp6vpmGiTu5sUCo
-mvUhTNgS
-=Y6ll
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmikKiYACgkQS2nKJ6mG
+Jl3H+AwAhW65MiAqIc0yL02FWPNAqBwlRu2IsowlmxryvVLNXG4ZZCiIsO8RbnkF
+rY9m0cPp7Ag9oJV9F8RFIq+CmZrSFYMmMk+2MCG74ECo7KyLou6VRtSiyR3n4qPY
+U41oSWGpjbsG2CItIuzr+Gc8DNwjF7o9ef3T1uYeqH4zAo4IyPwMs8zLIw5uEnNn
+zyrwbx+LBfhuoZ2Ge6ZAHOBAzHJcdt8BcqzR3uwzOMLauyN/vZ2Pk8B16v1IfxQl
+BcizV5P6DOGN2ldTzucoa7lladFCBOGhcrpn5Jc/lelQQJgwvKe5qyxHJqMvUlFI
+P/rrD7RN9FLeg7mZulLRPCX3kQDqGI6Sy6H7vAks5l6aENu1OmFeCffGYRK8HHgu
+9Qxn82vUHA63R7BO2ejD4Io7kW3chcbTFFNXeThR2afCVP8ubTKoaG1xQR/H3Hx4
+SIvejSFAl+p5F4RLUw11dYvUFiZqoIbvP7TrtlnV7ifDBKWD61KdWZgyLzCBRLZR
+uK9m+tQe
+=nMOa
 -----END PGP SIGNATURE-----

@@ -5,7 +5,7 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: bionic
-Date: Tue, 19 Aug 2025 07:29:25 UTC
+Date: Tue, 19 Aug 2025 07:39:24 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
@@ -32,15 +32,15 @@ SHA256:
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmikJ9UACgkQS2nKJ6mG
-Jl1VYwv/aorcHBAOWM9km20gfkoQsIjl/vR1g/f23Q2rb+RocsV7XAsCsc6+kK8D
-9AdwvlHRCVAV6YSgBK3RfaoA4j0ovFpRRJv8LkOJwY36JeLbKdsvSeO9j2QmyHht
-DfAi9MzNNP0yNSSMUzVbsuZWes4Syshs7LW21KVXSiL3pVAn5YSMkRr3gtLlyTLu
-25L20LMYh9QHHTtZ2TrzJrZiERI+1ejrAGbr1Il21eGY3nriV0baLvnhjWH9qVXL
-FqgrN1TQ98ClJLWBmqKXSi4TkNz694nPxrsOoC3MbH+pT2nHKetsK67e7ty1X7La
-JZOJ1xTwV3Q3k06vIy6opkvwnbGrEF6LAqlcDPK8wJXJlC6yalcrPYXKBxpqGT6g
-86ZJTqjeqFN1Es5/1trf9BPbsz3Hed1R176yuzvQLQGMYynk0T3DX43XnIeTt4gX
-MVoqGMgQCrE/0LdCxDRC0IWbDavUc8Za2NTli/EoBbpCXETyvb0kzkogYTvl2vgR
-W3s/dMjL
-=zvbF
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmikKiwACgkQS2nKJ6mG
+Jl1OQAwAwKIL6H1Wqk3egt9FzEFGxKrqH4Nc/f9oqlUo2+rvDfN1e9pNW8s+qbwu
+fG2WrF7dGh0/QfZ2jk1Y8nIrdSOTO9CXV0qgNAuitWjjjyRetHduaSXWHQrAwZB3
+ofVBhok5P1NjX6rtQGn11OzmNB9feG57V/xo63kMrkG2lwmNDLMTIB/FS3Rqsmbu
+NR++q8b/zC90x1dqA0yPXS2tSA/ij3RPIdWZVtKDr4tSU/M78gSKT6yZBPZsbesk
+xrUrs51gVEbtpF/RIfbDVS+XWOAwqoOKdBR5RRzlmrNQFa1fZ5G8tBQ0NN1o6bWu
+aIltDhkYp2PS1zc7wdjSuGOIGrpS5jTnVlZQZQiNekzsQSNyabkjtyaBWhTxfhYf
+Yd5ZiLXQvNiwEIJbASE8o0F5wcCI2mRE/5rVnPoTMOMpOAGdrczeR/Fy3VSCB4HR
+OAI/tpRaUK3OkXf1WFza9+DXq8i8LVCOwTiVtwrIt6bdNpuWGMFol2ZTtQsOERTC
+jxn4EyfS
+=HQrF
 -----END PGP SIGNATURE-----
