@@ -2,27 +2,27 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: xenial
-Date: Wed, 24 Sep 2025 12:17:07 UTC
+Date: Fri, 26 Sep 2025 16:25:49 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
 MD5Sum:
- b2aa944fd490496b3b1bf15bfe03df14 4206 main/binary-amd64/Packages
- 0a61e660d401411f78a68a0c1fe0c5d4 1356 main/binary-amd64/Packages.gz
+ 898491cbf9330891787abef02b24bb10 4207 main/binary-amd64/Packages
+ 5f05d1f5774ee0290b7a624a317c45ff 1355 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  9d0759f2ed63313ac0d5f35126dbea8c 3500 main/binary-arm64/Packages
  9b732bde7c44cd706689d6d6d7daea1b 1033 main/binary-arm64/Packages.gz
  c635b4185917331289ab6080a688e077 134 main/binary-arm64/Release
 SHA1:
- 26223b012ee660dbe01c9265f63dd76ff1059659 4206 main/binary-amd64/Packages
- 71651aaa9601c060d51fc2dd1beead67fd8c331e 1356 main/binary-amd64/Packages.gz
+ c446001889e2c6f605bf362a9ccce3509b8b52bb 4207 main/binary-amd64/Packages
+ df2e279910170cc3c569a79ca63d44b68f0d6d72 1355 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  b654c0af1b92b48ca256197ff7a6c3dd4243f04c 3500 main/binary-arm64/Packages
  8b961933d03d5206ea82bffe0943eea53379946e 1033 main/binary-arm64/Packages.gz
  d149cc553fcc699ca75b593e7b59e44e0f193a06 134 main/binary-arm64/Release
 SHA256:
- 09b3e5ba6a1a9e8de3c0e31dd3aa52c63a897f9ff0575c0497037e1859edb1fe 4206 main/binary-amd64/Packages
- bd0e25f08bfa36bbc3e5dc6adb389105b4865425b6959896842f11ef2e2d2f1c 1356 main/binary-amd64/Packages.gz
+ bb0e9b4b7eb3336fa45ae5f2f2f8c615ec9496b422e8e4a2394e9946b48ab7b4 4207 main/binary-amd64/Packages
+ 98b38061472cf3605e4c74225ad7af036efd58c11e5010fd3bfceaaeae5d7a46 1355 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  79ea29da87e686b9beba7426e7ee727db6ab24b7e2ff341ef397f2c105ee6b43 3500 main/binary-arm64/Packages
  7b027f7d7a138743ccf3035390aa8fa1ecbde10154ceac46d6a94e3569f1fdfb 1033 main/binary-arm64/Packages.gz
