@@ -2,28 +2,28 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Sun, 26 Oct 2025 15:07:35 UTC
+Date: Mon, 27 Oct 2025 03:22:25 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
 MD5Sum:
- 441d07838bb188e8e3528d30517346ed 2453 main/binary-amd64/Packages
- ac9c63f2272860d13d9d3b41f920ad66 1093 main/binary-amd64/Packages.gz
+ 5b44fedae2827c70c32bcae46961089a 2453 main/binary-amd64/Packages
+ 4293b50c5fad6e364f9a820c833452e5 1091 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
- b31ae44e0ac8688bafd65c9ae8fc5452 1746 main/binary-arm64/Packages
- c16c284ca2d661bacf1d1a451f6362fa 771 main/binary-arm64/Packages.gz
+ 2b63aef4149ec570d8dbede54814794f 1746 main/binary-arm64/Packages
+ 6ecb43a62e91bdcf6878676786a2234f 773 main/binary-arm64/Packages.gz
  c635b4185917331289ab6080a688e077 134 main/binary-arm64/Release
 SHA1:
- 5375b11e355859f56c644ea731653dff4ab4f40d 2453 main/binary-amd64/Packages
- 4cada889d7b4ee7cb3514bd63e1c946a0758d1ed 1093 main/binary-amd64/Packages.gz
+ f2c6cd481cde349a0b87cb70304476dbe0210602 2453 main/binary-amd64/Packages
+ a8fc09aa626d7be405ec996f35724ae81772bf79 1091 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
- a208d833403644c6b83c281022a7826466f96b7b 1746 main/binary-arm64/Packages
- 1422bb7eff33681590426be3bc1d8d2c2545d6a9 771 main/binary-arm64/Packages.gz
+ 9baae43edf176bf1c2a74c4ad0589c909a290fa2 1746 main/binary-arm64/Packages
+ e8d67f41462757b91d0911c1b3aac241c11c1b05 773 main/binary-arm64/Packages.gz
  d149cc553fcc699ca75b593e7b59e44e0f193a06 134 main/binary-arm64/Release
 SHA256:
- 8d72bab8ab8fb08d64bcf1767cb6005d0d71546fce3b32ecfd0cbff556dab49a 2453 main/binary-amd64/Packages
- 41557fe709522df4ba08b39f0f6e5cda74a93abf16f2c9f15cb293ee70bf021d 1093 main/binary-amd64/Packages.gz
+ 9e729ad86399a8acc820daca55b4abf273a13836c3875ae571291f8441583fc2 2453 main/binary-amd64/Packages
+ 0fdfc19727dba9fe0f6150801aa54ca948f44624eabdaceb6882255172910020 1091 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
- f9ee02205a76deb9a44345a0d22270b8c275b4344378fb54b3fd9e996a80ca04 1746 main/binary-arm64/Packages
- fba1d12a7ca8bbab004b67eda3511d1e4662be9f2887e5dd385c4a0673ddd9fb 771 main/binary-arm64/Packages.gz
+ bf57a63bd4b7073d88ba6f9e28b79ed404b36f2b52676f2eb7354e929092a302 1746 main/binary-arm64/Packages
+ 097056d7511da160c497877377e16a4ada466bb2fa786fbf4234c1bf490776c1 773 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
