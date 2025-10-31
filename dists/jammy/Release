@@ -2,27 +2,27 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: jammy
-Date: Fri, 31 Oct 2025 02:02:15 UTC
+Date: Fri, 31 Oct 2025 07:49:37 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
 MD5Sum:
- b941e84b3f0cee1fca185288fc30759e 2453 main/binary-amd64/Packages
- aebea55f5ad9ad48e46eed44f8187871 1092 main/binary-amd64/Packages.gz
+ 163a5edf3cf484717f41c82bd42834f2 2453 main/binary-amd64/Packages
+ a49cf3b1fe1ebec1e7fbf99317b008e8 1092 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  5b580ff7703ce9a45d64feb2d2989e5d 1746 main/binary-arm64/Packages
  18287cb16d10143229f79313992c70f1 773 main/binary-arm64/Packages.gz
  c635b4185917331289ab6080a688e077 134 main/binary-arm64/Release
 SHA1:
- e7081ce5e876f30dd2cc14b66ca1f1d028cd0969 2453 main/binary-amd64/Packages
- f8bd9443c19e5e8829cd6396af78316931ce93b3 1092 main/binary-amd64/Packages.gz
+ 4bbae4a22d4ecb89118fe43c022937d625d529e5 2453 main/binary-amd64/Packages
+ 7865179e1fa83149dd0976cef4010628e068b3da 1092 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  257af6b9bbd3a240e00ec4d6d45c3ffa29cb4fda 1746 main/binary-arm64/Packages
  110652d68035e68bbf2621ca8f98e769348b1758 773 main/binary-arm64/Packages.gz
  d149cc553fcc699ca75b593e7b59e44e0f193a06 134 main/binary-arm64/Release
 SHA256:
- e797c835e3e196c0561ca73361437afd87f64c4522e27942a25d663e43321118 2453 main/binary-amd64/Packages
- ff94e0bfedf2972399e2a4c7f154678c386607679b64a0d9da48b3947a85a3ab 1092 main/binary-amd64/Packages.gz
+ 637d914c6cfc1d06fece81e2b4bde11b1167349e3bff042aa24c7fad60413112 2453 main/binary-amd64/Packages
+ 353ba6d9577e23ffec9df5f3a4ef03fad0f94ea91c58c45bdc9f1d537c213399 1092 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  fbaff99c60a56ef24af338f90813ddcf3d101dc027807b0bb18a08ba059b0723 1746 main/binary-arm64/Packages
  906e98c99868e4131c2bab1a0aa14daebd6d474985f49cc43a727d1bced9ec52 773 main/binary-arm64/Packages.gz
