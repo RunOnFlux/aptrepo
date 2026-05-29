@@ -18,7 +18,7 @@ MD5sum: c8bfe06a358b590a26c530b25053ef1a
 Description: Flux is a cryptocurrency that empowers Flux - Your gateway to a decetralized world.
 
 Package: fluxbench
-Version: 6.3.0
+Version: 6.3.1
 Source: fluxbench
 Maintainer: Flux Foundation <info@runonflux.io>
 Homepage: https://runonflux.io
@@ -29,11 +29,11 @@ Architecture: arm64
 Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgomp1 (>= 4.9), libstdc++6 (>= 5.2)
 Priority: optional
 Section: utils
-Filename: pool/main/f/fluxbench/fluxbench_6.3.0_arm64.deb
-Size: 2482984
-SHA256: a94194ec2118a2cd978228e2e625e9bbb13585e4af7e9fc899f0b41fa972d65d
-SHA1: b6892796b426dfcb51daebe812e3fa5f1dc7ad08
-MD5sum: 2dabeb07e5ec311394a2d92ebc1cf3a8
+Filename: pool/main/f/fluxbench/fluxbench_6.3.1_arm64.deb
+Size: 2479248
+SHA256: c7a827992d1d7949b4e6cd734fbac6be85f2d3885a6c73f8080745fea747f5c7
+SHA1: deff7baab8372c8a4288b4fa5ea320c2ce7d3c40
+MD5sum: 663518b5b81dde3b74d6d9dcc54071a9
 Description: FluxBench is a benchmarking tool for FluxNodes. By verifying user server, FluxBench ensure quality of Flux solution.
 
 Package: zelbench
