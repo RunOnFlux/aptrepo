@@ -5,42 +5,42 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: bullseye
-Date: Tue, 19 May 2026 09:37:09 UTC
+Date: Fri, 29 May 2026 08:39:14 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
 MD5Sum:
- 34b98f77030e6ad47499689f8f5b8729 4207 main/binary-amd64/Packages
- c797942e8d2655e394a3c621ef2be8d7 1354 main/binary-amd64/Packages.gz
+ 2ecdb44854e49de5588d34851e859feb 4207 main/binary-amd64/Packages
+ 5f394d4d8c2811f83178a369ce84a750 1357 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
- 83640ac4e844a2a46f4027e5463c4535 3500 main/binary-arm64/Packages
- 3e7e3bf90edd6f9aa1aa80ba55eb9c1e 1031 main/binary-arm64/Packages.gz
+ 59f725f7a7f504dce059c386dbd81005 3500 main/binary-arm64/Packages
+ da9dd991f8566c3ace66529fdc310be2 1037 main/binary-arm64/Packages.gz
  c635b4185917331289ab6080a688e077 134 main/binary-arm64/Release
 SHA1:
- 5acf82bbad16c345f0b93dbd238aa3cdb114f362 4207 main/binary-amd64/Packages
- 04f3e90f16f41cd5a373799ab84c4e377d1c5ef5 1354 main/binary-amd64/Packages.gz
+ ee7e57f326375973cff8c9cc0c3e2144ac588b28 4207 main/binary-amd64/Packages
+ 39155c7dd2754d8d8529e23993e1f79c5fac4419 1357 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
- 116a467061cc28545c4245dd63cde3b2f705de6d 3500 main/binary-arm64/Packages
- 6d4553a5e84bd10f029acd9f9d7567303c10f743 1031 main/binary-arm64/Packages.gz
+ d2f796e417cbb6cbeb8638799bbaef2110982e28 3500 main/binary-arm64/Packages
+ f67d36eb45cd2db1d86a20edfc12166418bd6e3d 1037 main/binary-arm64/Packages.gz
  d149cc553fcc699ca75b593e7b59e44e0f193a06 134 main/binary-arm64/Release
 SHA256:
- dfef3963c271b4242d9c108a5ca84ba408c732ba6eb4c1caaa45296f4651380f 4207 main/binary-amd64/Packages
- 1d37b1fcf432a82108d22962d77a69383fd14b4bae90540ae70e0c6efa1a192b 1354 main/binary-amd64/Packages.gz
+ 734d47a283e00340c093f7ae9ab75590f404a4126180fde39c723f4ae388d517 4207 main/binary-amd64/Packages
+ 3b89b5e6b7a26a28351334351ad2a00a5634082a2e0ccf00559119f3b3f1cc34 1357 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
- 069358aa519b8c98e520d811a76a31a1e135f345ee8e29838f62dd30276764e8 3500 main/binary-arm64/Packages
- 8772d694da611c19ce5bd0a4fd19f3d02193056846b6da12b13341f9f1ef7870 1031 main/binary-arm64/Packages.gz
+ 22d6b1ddb99583f6d328618523fe533d41cccd0e823c551b2c2aac2c7603f608 3500 main/binary-arm64/Packages
+ e724610df573643fb04ccdee98285ce7086502ee996b3d6ea84d16ccc387902d 1037 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmoML0UACgkQS2nKJ6mG
-Jl0AJgwAmP/5f8NyzfbTqzIOJtkB3oHZrzW97ptm/j0qcl/18xYZTIH3gG+jSm/u
-bVQCI4+ej0JLz5HD4ad1uJs9lyXW4cDCNmhYXhcCcZ7HdeHi6e+7pSRZV44dcdTQ
-G5Gjo8cdopUsiEL+ZfVGQZC/MfrRsHRzqv5cihceLQdkv9Ze9I6dm8KGZ7TBpGz9
-wRnr//0LoR17o+UgfwEOyGDauJI2Ao8ZNfefUmAUOUJvnhpoTUrTAaUxHbiGdYjC
-L+L2/b0J+r8Espruz/y9Rm2v4Ygllq420bTi6leAt1Qik2D8DUtH724qAETssCql
-bNKExhEWLZ26+D7iCJ5vw/9ZGyQcV1IX8NQrkcpBZO4AA3gH5C8ABBD11HJdxN22
-eGmOOWGxfFmuTqqpVwlbMJxVB0aWX9Gg+cx6nS7z8yVFQjm5688U4fn8Lei6HsIV
-f3spBBhieC97bBtYyaNWwMdmoLhtWANS/b2cgxuIQ9B7xV/+azD93EPkzXZ0xr5K
-LaMNgKLB
-=gnDg
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmoZULMACgkQS2nKJ6mG
+Jl2BDwv/RiASp/CXv5CS/Mr/LSJfHnwFbPA7Vax6GaiHNu3Njuj5vawpudOGFTs9
+vIqVlRGFEdoALNp8FJC9O2cMbv3CvDvii3TcG0SMnsNvDmnaJaHehu3oObqJTIbJ
+h6O5Qy/h73jgB7OeCYm4lluJ9xzJiJbuGYo2loEc5OOAgdEwB2U4PCCU+3+TcLgE
+6GG63PNdYsXr9d1ijpOM0G5ts+SiD2/8FQB2bwij+SQ2ZVs2ZeM2+TdQofehhQek
+AN9DpQOWrzwh2tWIlrrUFimXk7lN1elJQnr0vbqBBPpHISsTRZBjxiSvi4rBmEqj
+Q6gxu2O0GWbvcxu9F+LQbhZdT6I0slPF4qUeGpC0xRjP+Yu72z3+Mbd1pf8jwgcv
+WIuFuu7ZBViESKjTnHNg7dy6SCQdHXkmhSiP6GCQVzTCq5gX08QQp/g4UVtOgsAx
+QvDrDV0+rEenbYBUbs3rtQ6koBS44ImA9Y4fb67509a6rAhN4TT1X2gVtcSpVhOZ
+TtyXVvHX
+=yxd6
 -----END PGP SIGNATURE-----
