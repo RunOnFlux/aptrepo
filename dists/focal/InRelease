@@ -5,42 +5,42 @@ Origin: Flux
 Label: Flux
 Suite: stable
 Codename: focal
-Date: Tue, 09 Jun 2026 14:27:07 UTC
+Date: Tue, 23 Jun 2026 21:08:50 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Flux, Your Gateway to a Decentralized World
 MD5Sum:
- 203bf783c52df6761a950c6f84329f59 4207 main/binary-amd64/Packages
- e7ef2e1879565c268910b57de1e777b9 1356 main/binary-amd64/Packages.gz
+ 8478b811ab65332001a76d1e308e05ea 4207 main/binary-amd64/Packages
+ b23f3257c2ec0409d0c6f30f14b0fb66 1355 main/binary-amd64/Packages.gz
  84de3aeb45634a1728bd817da047394d 134 main/binary-amd64/Release
  89ed07c532a25b94827f06897fddb7d2 3500 main/binary-arm64/Packages
  4fda0803a94204938ea4bff9fb716db7 1033 main/binary-arm64/Packages.gz
  c635b4185917331289ab6080a688e077 134 main/binary-arm64/Release
 SHA1:
- 6e557c03b3dee0db80ad0d8d01c4bcee0466a876 4207 main/binary-amd64/Packages
- 7490f49b2f5134d892a124207a71ea31fb0636a3 1356 main/binary-amd64/Packages.gz
+ 916c0634607c30491c82e661a8326101690d7bb0 4207 main/binary-amd64/Packages
+ 770c6655a8074b372e669182457461ae01adf51a 1355 main/binary-amd64/Packages.gz
  68fc82c985faca44c7f0b659ba23d69319820477 134 main/binary-amd64/Release
  dd2c1e2a6945faa94470fea61104ebbf9b12fbe8 3500 main/binary-arm64/Packages
  47792f73f3b361f394dd170cfa9e3d6f44085781 1033 main/binary-arm64/Packages.gz
  d149cc553fcc699ca75b593e7b59e44e0f193a06 134 main/binary-arm64/Release
 SHA256:
- 90af4480f4d054191182ae911d9916dc483cc6a44db1fe75a8c5a4e826b28f42 4207 main/binary-amd64/Packages
- feef017efb1b3ebf1ff13e7f57fe4a87c6385e9a2ba7f8da2d5180e809638dd4 1356 main/binary-amd64/Packages.gz
+ c36268ddd4185f1dafddaf6b3414055a74afdbbfec5fe09beee1367f2ed61824 4207 main/binary-amd64/Packages
+ b1e8b91287378128dc5ced7c335e472283d55424099f5bbaba4d43842389e405 1355 main/binary-amd64/Packages.gz
  323807944071fb3b901791306a7cde4bc0a1a904a8298ac0b54c2bc1ee64b2d2 134 main/binary-amd64/Release
  a8073c25159818930f23a61b9f80fcad1a4df0aabdba11ea373bffc686c40982 3500 main/binary-arm64/Packages
  2a261878815454a80e3914198f46439f707297702880825fe50240143173912b 1033 main/binary-arm64/Packages.gz
  4dcf23d3564523921ddd3cc3cb24b46bbcf12019238212edc7059ef316e7ca88 134 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmooIrwACgkQS2nKJ6mG
-Jl1YzAv/Y4n3YJ6wbvFGuuppb3yDgHriBwcWyqxHnNvhjXt9Q/4mXwIhlqaNPN/m
-w2foMGyfQk5KGovLhBGt99nw/p2dcoU5qg2+hliW/mg6NCp2xiIAiP51Clm8C/s/
-gXya8sMH7H9bQiGwyO1SdNV6wU475WvpgnajpPLZk+ArKco76skS2UcNnU+Nw0YM
-JN7W5ZOiAgGg31za028zBSCnQXsHjntH/lZq396OrSCdkp6EuIQW9EzmE/YSZMGl
-L4m1Gd0y7crOxCx1lyeo89Q9knKoMUmWwBMBKMwWHVHSxmc8VYTBt1qy06b1Dhig
-lNL0751UNMaFJuYfDZXVQEcAFQcD1E7/q75wdlkHjdoCdVe1xipRoNNG63hYcBrj
-TJAW+hXTa/DOV6VKzmbaIiIC/3GqT5oQ6X7FkPxFeJBsE8SU0yY5nqRxTAXWyYkh
-C4DvhHXXpVGhIPLTsaGBY2JC+zFrFcZFQ/smAB2RzXGNbdJdw0UbRjvftsUuv+qZ
-0wtp1igS
-=z3wk
+iQGzBAEBCgAdFiEET3/rvxvd0jl9q+LPS2nKJ6mGJl0FAmo69eIACgkQS2nKJ6mG
+Jl2wJgwAvv0Or1ZD1KvbE5yAQv7gSv4SgBY0YR8mqJMClTcAm3aakj+b/6uQUlWt
+Co1809tdjQT85yzBP01SJghnVqtQYecTREdsZg+9WQh4/Iqz2Yv2X8RLtbeSz8Ov
+wDW1sUnmJSYKpalzJ+ddObQNiMCBcqRvKTRRkLJdUpDR0LYrAb15R34y1adx8mk/
+iJ1uaGn1qR46BJTTqQ2QNp5GRjXjXaiKv16jcpQTbFxVKmmsKljQZMZ9h5TRIjQj
+iWpqKCgCUpu4zJNnn6ZM469zo9If3VFDeNU65dlxqVyL1xguj/0MnP2MlTt5OmOA
+ArHJ8rDpOpz6EqwoAo1rBJEzIdR1dEBozAWR+S7dld04T6uZ84EWgNoQLOSEkCGv
+bKJL3JGAUXoycio6oMT2y7G8f7cfF8LhY2y04VsHAvvc7XIQx4DDa6KTD8dEL1sr
+IAo0lkcaiyr+ASlKLpEWRYeWfYLuv2EJ85+c4435+tmEcTkvKzmsWZ8oqaMU+SkB
+fjLHURTq
+=kldQ
 -----END PGP SIGNATURE-----
